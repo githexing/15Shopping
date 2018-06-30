@@ -1,0 +1,12 @@
+﻿UserID			用户ID
+UserCode		用户编号
+UserName		用户昵称
+Longitude		经纬度
+MAC				MAC
+PhoneVersion	版本
+PhoneBrand		品牌
+PhoneSystem		系统
+AddTime			时间
+OpType			操作类型
+Msg				说明
+Mobile			手机

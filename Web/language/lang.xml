@@ -1,0 +1,3196 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lang>
+  <key name="Language">
+    <langtype name="zh-cn">请选择语言</langtype>
+    <langtype name="en-us">Language</langtype>
+  </key>
+  <key name="UserCenter">
+    <langtype name="zh-cn">用户中心</langtype>
+    <langtype name="en-us">User center</langtype>
+  </key>
+  <key name="FinanceCenter">
+    <langtype name="zh-cn">财务中心</langtype>
+    <langtype name="en-us">Finance</langtype>
+  </key>
+  <key name="Recharge">
+    <langtype name="zh-cn">我要充值</langtype>
+    <langtype name="en-us">Recharge</langtype>
+  </key>
+  <key name="WelcomeMessage">
+    <langtype name="zh-cn">欢迎信息</langtype>
+    <langtype name="en-us">Welcome message</langtype>
+  </key>
+  <key name="Welcome">
+    <langtype name="zh-cn">欢迎</langtype>
+    <langtype name="en-us">Welcome</langtype>
+  </key>
+  <key name="RecommendInfo">
+    <langtype name="zh-cn">推荐人奖金明细</langtype>
+    <langtype name="en-us">Welcome</langtype>
+  </key>
+  <key name="NewsCenter">
+    <langtype name="zh-cn">公司快讯</langtype>
+    <langtype name="en-us">News Center</langtype>
+  </key>
+  <key name="UserInfo">
+    <langtype name="zh-cn">用户信息</langtype>
+    <langtype name="en-us">UserInfo</langtype>
+  </key>
+  <key name="More">
+    <langtype name="zh-cn">更多</langtype>
+    <langtype name="en-us">More</langtype>
+  </key>
+  <key name="index">
+    <langtype name="zh-cn">首页</langtype>
+    <langtype name="en-us">Home</langtype>
+  </key>
+  <key name="Page">
+    <langtype name="zh-cn">页</langtype>
+    <langtype name="en-us">Page</langtype>
+  </key>
+  <key name="GoTo">
+    <langtype name="zh-cn">跳转</langtype>
+    <langtype name="en-us">Go to</langtype>
+  </key>
+  <key name="Open">
+    <langtype name="zh-cn">开通</langtype>
+    <langtype name="en-us">Open</langtype>
+  </key>
+  <key name="Delete">
+    <langtype name="zh-cn">删除</langtype>
+    <langtype name="en-us">Delete</langtype>
+  </key>
+  <key name="Determine">
+    <langtype name="zh-cn">确定</langtype>
+    <langtype name="en-us">Determine</langtype>
+  </key>
+  <key name="Agent">
+    <langtype name="zh-cn">报单中心</langtype>
+    <langtype name="en-us">Agent Center</langtype>
+  </key>
+  <key name="DeclarationAgent">
+    <langtype name="zh-cn">你已经是报单中心</langtype>
+    <langtype name="en-us">You are the declaration Center</langtype>
+  </key>
+  <key name="ReferenceNumber">
+    <langtype name="zh-cn">推荐人编号</langtype>
+    <langtype name="en-us">Reference number</langtype>
+  </key>
+  <key name="ShangCeng">
+    <langtype name="zh-cn">竞拍商城</langtype>
+    <langtype name="en-us">Auction Mall</langtype>
+  </key>
+  <key name="ShoppingMall">
+    <langtype name="zh-cn">商城购物</langtype>
+    <langtype name="en-us">Shopping mall</langtype>
+  </key>
+  <key name="AddressManage">
+    <langtype name="zh-cn">地址管理</langtype>
+    <langtype name="en-us">Address manage</langtype>
+  </key>
+  <key name="InformationCenter">
+    <langtype name="zh-cn">信息中心</langtype>
+    <langtype name="en-us">Information</langtype>
+  </key>
+  <key name="InformationManaget">
+    <langtype name="zh-cn">信息管理</langtype>
+    <langtype name="en-us">Information managet</langtype>
+  </key>
+  <key name="Member">
+    <langtype name="zh-cn">会员中心</langtype>
+    <langtype name="en-us">Members</langtype>
+  </key>
+  <key name="FinancialQueries">
+    <langtype name="zh-cn">财务管理</langtype>
+    <langtype name="en-us">Financial</langtype>
+  </key>
+  <key name="Exit">
+    <langtype name="zh-cn">安全退出</langtype>
+    <langtype name="en-us">Exit</langtype>
+  </key>
+  <key name="MemberInformation">
+    <langtype name="zh-cn">会员资料</langtype>
+    <langtype name="en-us">Member information</langtype>
+  </key>
+  <key name="AccountsQueries">
+    <langtype name="zh-cn">账户查询</langtype>
+    <langtype name="en-us">Accounts queries</langtype>
+  </key>
+  <key name="ModifyPassword">
+    <langtype name="zh-cn">修改密码</langtype>
+    <langtype name="en-us">Modify password</langtype>
+  </key>
+  <key name="Recast">
+    <langtype name="zh-cn">账号复投</langtype>
+    <langtype name="en-us">Re cast</langtype>
+  </key>
+  <key name="NewsInformation">
+    <langtype name="zh-cn">新闻中心</langtype>
+    <langtype name="en-us">News Center</langtype>
+  </key>
+  <key name="NewsBulletin">
+    <langtype name="zh-cn">新闻公告</langtype>
+    <langtype name="en-us">News bulletin</langtype>
+  </key>
+  <key name="Bulletin">
+    <langtype name="zh-cn">公告信息</langtype>
+    <langtype name="en-us">Bulletin Info</langtype>
+  </key>
+  <key name="MyBonus">
+    <langtype name="zh-cn">我的奖金</langtype>
+    <langtype name="en-us">My Bonus</langtype>
+  </key>
+  <key name="NewsList">
+    <langtype name="zh-cn">新闻列表</langtype>
+    <langtype name="en-us">News List</langtype>
+  </key>
+  <key name="Sendmail">
+    <langtype name="zh-cn">我要留言</langtype>
+    <langtype name="en-us">Send email</langtype>
+  </key>
+  <key name="Receivemail">
+    <langtype name="zh-cn">收取邮件</langtype>
+    <langtype name="en-us">Receivemail</langtype>
+  </key>
+  <key name="HaveEmail">
+    <langtype name="zh-cn">已发信件</langtype>
+    <langtype name="en-us">Have email</langtype>
+  </key>
+  <key name="Customer">
+    <langtype name="zh-cn">公司客服</langtype>
+    <langtype name="en-us">Customer</langtype>
+  </key>
+  <key name="CustomerQQ">
+    <langtype name="zh-cn">客服QQ</langtype>
+    <langtype name="en-us">Customer service QQ</langtype>
+  </key>
+  <key name="CustomerQQGroup">
+    <langtype name="zh-cn">客服QQ群</langtype>
+    <langtype name="en-us">Customer service QQ group</langtype>
+  </key>
+  <key name="terms">
+    <langtype name="zh-cn">下载中心</langtype>
+    <langtype name="en-us">The terms of service</langtype>
+  </key>
+  <key name="registration">
+    <langtype name="zh-cn">会员注册</langtype>
+    <langtype name="en-us">Member registration</langtype>
+  </key>
+  <key name="PedigreeChart">
+    <langtype name="zh-cn">系谱图</langtype>
+    <langtype name="en-us">Pedigree chart</langtype>
+  </key>
+  <key name="Direct">
+    <langtype name="zh-cn">直接推荐</langtype>
+    <langtype name="en-us">Direct recommendation</langtype>
+  </key>
+  <key name="MembershipUpgrade">
+    <langtype name="zh-cn">会员升级</langtype>
+    <langtype name="en-us">Membership upgrade</langtype>
+  </key>
+  <key name="Rechargemanagement">
+    <langtype name="zh-cn">充值管理</langtype>
+    <langtype name="en-us">Recharge management</langtype>
+  </key>
+  <key name="TransferManagement">
+    <langtype name="zh-cn">转账管理</langtype>
+    <langtype name="en-us">Transfer</langtype>
+  </key>
+  <key name="ApplyCentre">
+    <langtype name="zh-cn">申请报单中心</langtype>
+    <langtype name="en-us">Apply Centre</langtype>
+  </key>
+  <key name="Feature">
+    <langtype name="zh-cn">该功能未开放</langtype>
+    <langtype name="en-us">This feature is not open</langtype>
+  </key>
+  <key name="AwardsQuery">
+    <langtype name="zh-cn">荣誉奖查询</langtype>
+    <langtype name="en-us">Awards query</langtype>
+  </key>
+  <key name="MemberBonus">
+    <langtype name="zh-cn">奖金明细</langtype>
+    <langtype name="en-us">Member bonus</langtype>
+  </key>
+  <key name="DetailAccount">
+    <langtype name="zh-cn">账户明细</langtype>
+    <langtype name="en-us">Detail Account</langtype>
+  </key>
+  <key name="Transfer">
+    <langtype name="zh-cn">账户转账</langtype>
+    <langtype name="en-us">Transfer</langtype>
+  </key>
+  <key name="MemberTransfer">
+    <langtype name="zh-cn">会员转账</langtype>
+    <langtype name="en-us">Member transfer</langtype>
+  </key>
+  <key name="TransferScore">
+    <langtype name="zh-cn">转账积分</langtype>
+    <langtype name="en-us">Transfer score</langtype>
+  </key>
+  <key name="ActualScore">
+    <langtype name="zh-cn">到账积分</langtype>
+    <langtype name="en-us">Actual score</langtype>
+  </key>
+  <key name="transferScoreIsnull">
+    <langtype name="zh-cn">转账积分为空</langtype>
+    <langtype name="en-us">Transfer score Is null</langtype>
+  </key>
+  <key name="MembershipWithdrawal">
+    <langtype name="zh-cn">会员提现</langtype>
+    <langtype name="en-us">Membership withdrawal</langtype>
+  </key>
+  <key name="BonusSettlement">
+    <langtype name="zh-cn">奖金结算</langtype>
+    <langtype name="en-us">Bonus Settlement</langtype>
+  </key>
+  <key name="ShoppingCart">
+    <langtype name="zh-cn">我的购物车</langtype>
+    <langtype name="en-us">My shopping cart</langtype>
+  </key>
+  <key name="AuctionRecords">
+    <langtype name="zh-cn">竞拍记录</langtype>
+    <langtype name="en-us">Auction records</langtype>
+  </key>
+  <key name="OpenMembership">
+    <langtype name="zh-cn">待开通会员</langtype>
+    <langtype name="en-us">Open membership</langtype>
+  </key>
+  <key name="OpenUser">
+    <langtype name="zh-cn">开通会员</langtype>
+    <langtype name="en-us">Open User</langtype>
+  </key>
+  <key name="AvailableMembers">
+    <langtype name="zh-cn">已开通会员</langtype>
+    <langtype name="en-us">Available members</langtype>
+  </key>
+  <key name="copyright">
+    <langtype name="zh-cn">2012-2018 版权所有</langtype>
+    <langtype name="en-us">2012-2018 all rights reserved</langtype>
+  </key>
+  <key name="Build">
+    <langtype name="zh-cn">生成编号</langtype>
+    <langtype name="en-us">Build ID</langtype>
+  </key>
+  <key name="detection">
+    <langtype name="zh-cn">检测编号</langtype>
+    <langtype name="en-us">Detection ID</langtype>
+  </key>
+  <key name="CurrentPosition">
+    <langtype name="zh-cn">当前位置</langtype>
+    <langtype name="en-us">Current position</langtype>
+  </key>
+  <key name="recharge">
+    <langtype name="zh-cn">我要充值</langtype>
+    <langtype name="en-us">Recharge</langtype>
+  </key>
+  <key name="LoginInformation">
+    <langtype name="zh-cn">登录资料</langtype>
+    <langtype name="en-us">Login information</langtype>
+  </key>
+  <key name="MembershipNumber">
+    <langtype name="zh-cn">会员编号</langtype>
+    <langtype name="en-us">Membership number</langtype>
+  </key>
+  <key name="LoginPassword">
+    <langtype name="zh-cn">登陆密码</langtype>
+    <langtype name="en-us">PassWord</langtype>
+  </key>
+  <key name="ConfirmPass">
+    <langtype name="zh-cn">确认密码</langtype>
+    <langtype name="en-us">Confirm password</langtype>
+  </key>
+  <key name="SecondPassword">
+    <langtype name="zh-cn">二级密码</langtype>
+    <langtype name="en-us">Two-level password</langtype>
+  </key>
+  <key name="ThreePassword">
+    <langtype name="zh-cn">三级密码</langtype>
+    <langtype name="en-us">Three-level password</langtype>
+  </key>
+  <key name="NetworkInformation">
+    <langtype name="zh-cn">会员资料</langtype>
+    <langtype name="en-us">Network Information</langtype>
+  </key>
+  <key name="MembershipLevels">
+    <langtype name="zh-cn">会员级别</langtype>
+    <langtype name="en-us">Membership levels</langtype>
+  </key>
+  <key name="DeclarationNumber">
+    <langtype name="zh-cn">报单中心编号</langtype>
+    <langtype name="en-us">Declaration center number</langtype>
+  </key>
+  <key name="RegistrationAmount">
+    <langtype name="zh-cn">注册金额</langtype>
+    <langtype name="en-us">Registration amount</langtype>
+  </key>
+  <key name="StockAAmount">
+    <langtype name="zh-cn">A盘金额</langtype>
+    <langtype name="en-us">StockA amount</langtype>
+  </key>
+  <key name="StockBAmount">
+    <langtype name="zh-cn">B盘金额</langtype>
+    <langtype name="en-us">StockB amount</langtype>
+  </key>
+  <key name="StockManagement">
+    <langtype name="zh-cn">E币管理</langtype>
+    <langtype name="en-us">Stock Management</langtype>
+  </key>
+  <key name="Bonusa">
+    <langtype name="zh-cn">奖金结算</langtype>
+    <langtype name="en-us">Stock Bonus</langtype>
+  </key>
+  <key name="Putinto">
+    <langtype name="zh-cn">奖金转盘</langtype>
+    <langtype name="en-us">Bonus Turntable</langtype>
+  </key>
+  <key name="Extract">
+    <langtype name="zh-cn">奖金提取</langtype>
+    <langtype name="en-us">Bonus To Extract</langtype>
+  </key>
+  <key name="StockPrice">
+    <langtype name="zh-cn">购进股价</langtype>
+    <langtype name="en-us">The original price</langtype>
+  </key>
+  <key name="CurrentPrice">
+    <langtype name="zh-cn">当前股价</langtype>
+    <langtype name="en-us">The current share price</langtype>
+  </key>
+  <key name="CurrentFunding">
+    <langtype name="zh-cn">当前资金</langtype>
+    <langtype name="en-us">The current funding</langtype>
+  </key>
+  <key name="NumberOfShares">
+    <langtype name="zh-cn">当前持股数</langtype>
+    <langtype name="en-us">Number of shares</langtype>
+  </key>
+  <key name="ProfitTotal">
+    <langtype name="zh-cn">盈利</langtype>
+    <langtype name="en-us">Profit total</langtype>
+  </key>
+  <key name="USD$">
+    <langtype name="zh-cn">$</langtype>
+    <langtype name="en-us">Dollar</langtype>
+  </key>
+  <key name="USD">
+    <langtype name="zh-cn">￥</langtype>
+    <langtype name="en-us">Yuan</langtype>
+  </key>
+  <key name="RecommendedNumber">
+    <langtype name="zh-cn">推荐编号</langtype>
+    <langtype name="en-us">Recommended number</langtype>
+  </key>
+  <key name="InsufficientNumber">
+    <langtype name="zh-cn">推荐人数不足</langtype>
+    <langtype name="en-us">Insufficient recommendation</langtype>
+  </key>
+  <key name="EMail">
+    <langtype name="zh-cn">电子邮箱</langtype>
+    <langtype name="en-us">Electronic mail</langtype>
+  </key>
+  <key name="Placement">
+    <langtype name="zh-cn">安置会员编号</langtype>
+    <langtype name="en-us">Placement number</langtype>
+  </key>
+  <key name="Registration">
+    <langtype name="zh-cn">区域</langtype>
+    <langtype name="en-us">Registration area</langtype>
+  </key>
+  <key name="Market">
+    <langtype name="zh-cn">市场</langtype>
+    <langtype name="en-us">Market</langtype>
+  </key>
+  <key name="Banking">
+    <langtype name="zh-cn">银行资料</langtype>
+    <langtype name="en-us">Banking information</langtype>
+  </key>
+  <key name="Depositary">
+    <langtype name="zh-cn">开户银行</langtype>
+    <langtype name="en-us">Depositary bank</langtype>
+  </key>
+  <key name="BankBranch">
+    <langtype name="zh-cn">银行支行</langtype>
+    <langtype name="en-us">Bank branch</langtype>
+  </key>
+  <key name="BankAccount">
+    <langtype name="zh-cn">开户账号</langtype>
+    <langtype name="en-us">Bank account</langtype>
+  </key>
+  <key name="AccountName">
+    <langtype name="zh-cn">开户姓名</langtype>
+    <langtype name="en-us">Account name</langtype>
+  </key>
+  <key name="Basic">
+    <langtype name="zh-cn">基本资料</langtype>
+    <langtype name="en-us">Basic information</langtype>
+  </key>
+  <key name="Name">
+    <langtype name="zh-cn">会员姓名</langtype>
+    <langtype name="en-us">Member name</langtype>
+  </key>
+  <key name="WhetherOut">
+    <langtype name="zh-cn">是否冻结</langtype>
+    <langtype name="en-us">Whether out</langtype>
+  </key>
+  <key name="IDNumber">
+    <langtype name="zh-cn">身份证号</langtype>
+    <langtype name="en-us">ID card number</langtype>
+  </key>
+  <key name="ContactPhone">
+    <langtype name="zh-cn">手机号码</langtype>
+    <langtype name="en-us">Contact phone</langtype>
+  </key>
+  <key name="ContactAddress">
+    <langtype name="zh-cn">联系地址</langtype>
+    <langtype name="en-us">Contact address</langtype>
+  </key>
+  <key name="Secret">
+    <langtype name="zh-cn">密保问题</langtype>
+    <langtype name="en-us">Secret security issues</langtype>
+  </key>
+  <key name="answer">
+    <langtype name="zh-cn">密保答案</langtype>
+    <langtype name="en-us">Secret security answer</langtype>
+  </key>
+  <key name="Submit">
+    <langtype name="zh-cn">提 交</langtype>
+    <langtype name="en-us">Submit</langtype>
+  </key>
+  <key name="Back">
+    <langtype name="zh-cn">返 回</langtype>
+    <langtype name="en-us">Back</langtype>
+  </key>
+  <key name="Settings">
+    <langtype name="zh-cn">个人设置</langtype>
+    <langtype name="en-us">Settings</langtype>
+  </key>
+  <key name="PersonalData">
+    <langtype name="zh-cn">个人资料</langtype>
+    <langtype name="en-us">Personal data</langtype>
+  </key>
+  <key name="MemeberData">
+    <langtype name="zh-cn">会员资料</langtype>
+    <langtype name="en-us">Memeber data</langtype>
+  </key>
+  <key name="AccountManagement">
+    <langtype name="zh-cn">帐号管理</langtype>
+    <langtype name="en-us">Account</langtype>
+  </key>
+  <key name="Financial">
+    <langtype name="zh-cn">财务中心</langtype>
+    <langtype name="en-us">Financial Center</langtype>
+  </key>
+  <key name="CurrencyBalance">
+    <langtype name="zh-cn">流通币余额</langtype>
+    <langtype name="en-us">Currency balance</langtype>
+  </key>
+  <key name="ShortageCash">
+    <langtype name="zh-cn">原始币余额不足</langtype>
+    <langtype name="en-us">Shortage of cash flow</langtype>
+  </key>
+  <key name="CurrencyFailure">
+    <langtype name="zh-cn">流通币扣除失败</langtype>
+    <langtype name="en-us">Currency deduction failure</langtype>
+  </key>
+  <key name="BonusDollars">
+    <langtype name="zh-cn">奖金币余额</langtype>
+    <langtype name="en-us">Bonus-currency balance</langtype>
+  </key>
+  <key name="ElectricBalance">
+    <langtype name="zh-cn">电子币余额</langtype>
+    <langtype name="en-us">Electric-currency balance</langtype>
+  </key>
+  <key name="Points">
+    <langtype name="zh-cn">积分余额</langtype>
+    <langtype name="en-us">Points balance</langtype>
+  </key>
+  <key name="Venture">
+    <langtype name="zh-cn">创业基金</langtype>
+    <langtype name="en-us">Venture capital funds</langtype>
+  </key>
+  <key name="ViewDetails">
+    <langtype name="zh-cn">查看明细</langtype>
+    <langtype name="en-us">View details</langtype>
+  </key>
+  <key name="bonus">
+    <langtype name="zh-cn">查看电子币明细</langtype>
+    <langtype name="en-us">Bonus details</langtype>
+  </key>
+  <key name="ViewEmoney">
+    <langtype name="zh-cn">查看奖金币明细</langtype>
+    <langtype name="en-us">Coin details</langtype>
+  </key>
+  <key name="ViewScore">
+    <langtype name="zh-cn">查看积分明细</langtype>
+    <langtype name="en-us">Score details</langtype>
+  </key>
+  <key name="Query">
+    <langtype name="zh-cn">查询</langtype>
+    <langtype name="en-us">Query</langtype>
+  </key>
+  <key name="Date">
+    <langtype name="zh-cn">日期</langtype>
+    <langtype name="en-us">Date</langtype>
+  </key>
+  <key name="To">
+    <langtype name="zh-cn">至</langtype>
+    <langtype name="en-us">To</langtype>
+  </key>
+  <key name="Search">
+    <langtype name="zh-cn">搜 索</langtype>
+    <langtype name="en-us">Search</langtype>
+  </key>
+  <key name="EnterTheDate">
+    <langtype name="zh-cn">輸入日期</langtype>
+    <langtype name="en-us">Enter the date</langtype>
+  </key>
+  <key name="TheBalanceOf">
+    <langtype name="zh-cn">余额</langtype>
+    <langtype name="en-us">The balance of</langtype>
+  </key>
+  <key name="AccountAmount">
+    <langtype name="zh-cn">账目金额</langtype>
+    <langtype name="en-us">Account amount</langtype>
+  </key>
+  <key name="CurrencyType">
+    <langtype name="zh-cn">币种</langtype>
+    <langtype name="en-us">Currency</langtype>
+  </key>
+  <key name="AccountTypes">
+    <langtype name="zh-cn">账户类型</langtype>
+    <langtype name="en-us">Account types</langtype>
+  </key>
+  <key name="BusinessSummary">
+    <langtype name="zh-cn">业务摘要</langtype>
+    <langtype name="en-us">Business summary</langtype>
+  </key>
+  <key name="Manager">
+    <langtype name="zh-cn">抱歉！目前暂无记录显示。</langtype>
+    <langtype name="en-us">I'm sorry! There is no record to show.</langtype>
+  </key>
+  <key name="PersonalAccount">
+    <langtype name="zh-cn">个人账户</langtype>
+    <langtype name="en-us">Personal account</langtype>
+  </key>
+  <key name="BonusDetails">
+    <langtype name="zh-cn">奖金明细</langtype>
+    <langtype name="en-us">Bonus details</langtype>
+  </key>
+  <key name="Electronic">
+    <langtype name="zh-cn">奖金币明细</langtype>
+    <langtype name="en-us">Auction-currency details</langtype>
+  </key>
+  <key name="ScoreDetails">
+    <langtype name="zh-cn">积分明细</langtype>
+    <langtype name="en-us">Score details</langtype>
+  </key>
+  <key name="Oldpassword">
+    <langtype name="zh-cn">旧登录密码</langtype>
+    <langtype name="en-us">Old login password</langtype>
+  </key>
+  <key name="newpassword">
+    <langtype name="zh-cn">新登录密码</langtype>
+    <langtype name="en-us">New login password</langtype>
+  </key>
+  <key name="Confirmpassword">
+    <langtype name="zh-cn">确认登录密码</langtype>
+    <langtype name="en-us">Confirm login password</langtype>
+  </key>
+  <key name="EnterPassword">
+    <langtype name="zh-cn">输入登录密码(必输入项)</langtype>
+    <langtype name="en-us">Enter the login password (required entry)</langtype>
+  </key>
+  <key name="OldSecondPassword">
+    <langtype name="zh-cn">旧支付密码</langtype>
+    <langtype name="en-us">Old two-level password</langtype>
+  </key>
+  <key name="NewSecondPassword">
+    <langtype name="zh-cn">新支付密码</langtype>
+    <langtype name="en-us">New two-level password</langtype>
+  </key>
+  <key name="ConfirmSecondPassword">
+    <langtype name="zh-cn">确认支付密码</langtype>
+    <langtype name="en-us">Confirm two-level password</langtype>
+  </key>
+  <key name="OldThreePassword">
+    <langtype name="zh-cn">旧三级密码</langtype>
+    <langtype name="en-us">Old three-level password</langtype>
+  </key>
+  <key name="NewThreePassword">
+    <langtype name="zh-cn">新三级密码</langtype>
+    <langtype name="en-us">New three-level password</langtype>
+  </key>
+  <key name="ConfirmThreePassword">
+    <langtype name="zh-cn">确认三级密码</langtype>
+    <langtype name="en-us">Confirm three-level password</langtype>
+  </key>
+  <key name="Modify">
+    <langtype name="zh-cn">确认修改</langtype>
+    <langtype name="en-us">Modify</langtype>
+  </key>
+  <key name="TheInbox">
+    <langtype name="zh-cn">收件箱</langtype>
+    <langtype name="en-us">The Inbox</langtype>
+  </key>
+  <key name="TheOutbox">
+    <langtype name="zh-cn">发件箱</langtype>
+    <langtype name="en-us">The Outbox</langtype>
+  </key>
+  <key name="message">
+    <langtype name="zh-cn">留言</langtype>
+    <langtype name="en-us">A message</langtype>
+  </key>
+  <key name="sender">
+    <langtype name="zh-cn">发件人</langtype>
+    <langtype name="en-us">The sender</langtype>
+  </key>
+  <key name="SubjectContent">
+    <langtype name="zh-cn">主題内容</langtype>
+    <langtype name="en-us">Subject content</langtype>
+  </key>
+  <key name="TheOutboxDate">
+    <langtype name="zh-cn">发件日期</langtype>
+    <langtype name="en-us">Date</langtype>
+  </key>
+  <key name="Recipient">
+    <langtype name="zh-cn">收件人</langtype>
+    <langtype name="en-us">Recipient</langtype>
+  </key>
+  <key name="Theme">
+    <langtype name="zh-cn">主题</langtype>
+    <langtype name="en-us">Theme</langtype>
+  </key>
+  <key name="MessageContent">
+    <langtype name="zh-cn">留言内容</langtype>
+    <langtype name="en-us">Message content</langtype>
+  </key>
+  <key name="DetailsView">
+    <langtype name="zh-cn">查看明细</langtype>
+    <langtype name="en-us">Details View</langtype>
+  </key>
+  <key name="State">
+    <langtype name="zh-cn">状态</langtype>
+    <langtype name="en-us">State</langtype>
+  </key>
+  <key name="Return">
+    <langtype name="zh-cn">返 回</langtype>
+    <langtype name="en-us">Return</langtype>
+  </key>
+  <key name="No">
+    <langtype name="zh-cn">暂无</langtype>
+    <langtype name="en-us">No</langtype>
+  </key>
+  <key name="Click">
+    <langtype name="zh-cn">点击这里给我发消息</langtype>
+    <langtype name="en-us">Click here to send me a message</langtype>
+  </key>
+  <key name="MyPedigree">
+    <langtype name="zh-cn">我的系谱图</langtype>
+    <langtype name="en-us">My pedigree chart</langtype>
+  </key>
+  <key name="next">
+    <langtype name="zh-cn">下一级</langtype>
+    <langtype name="en-us">next level</langtype>
+  </key>
+  <key name="pre">
+    <langtype name="zh-cn">上一级</langtype>
+    <langtype name="en-us">One level up</langtype>
+  </key>
+  <key name="NoOpen">
+    <langtype name="zh-cn">未开通</langtype>
+    <langtype name="en-us">Not yet opened</langtype>
+  </key>
+  <key name="Puka">
+    <langtype name="zh-cn">一星会员</langtype>
+    <langtype name="en-us">Puka</langtype>
+  </key>
+  <key name="Silver">
+    <langtype name="zh-cn">二星会员</langtype>
+    <langtype name="en-us">Silver card</langtype>
+  </key>
+  <key name="Gold">
+    <langtype name="zh-cn">三星会员</langtype>
+    <langtype name="en-us">Gold card</langtype>
+  </key>
+  <key name="Drill">
+    <langtype name="zh-cn">四星会员</langtype>
+    <langtype name="en-us">Drill Chuck</langtype>
+  </key>
+  <key name="Partner">
+    <langtype name="zh-cn">五星会员</langtype>
+    <langtype name="en-us">Partner</langtype>
+  </key>
+  <key name="Sixth">
+    <langtype name="zh-cn">六星会员</langtype>
+    <langtype name="en-us">Partner</langtype>
+  </key>
+  <key name="MyMarket">
+    <langtype name="zh-cn">我的市场</langtype>
+    <langtype name="en-us">My Market</langtype>
+  </key>
+  <key name="ThisFigure">
+    <langtype name="zh-cn">直接推荐图</langtype>
+    <langtype name="en-us">This figure</langtype>
+  </key>
+  <key name="MemberList">
+    <langtype name="zh-cn">会员列表</langtype>
+    <langtype name="en-us">Member list</langtype>
+  </key>
+  <key name="ViewPush">
+    <langtype name="zh-cn">查看直推图</langtype>
+    <langtype name="en-us">View the direct push</langtype>
+  </key>
+  <key name="Register">
+    <langtype name="zh-cn">会员注册</langtype>
+    <langtype name="en-us">Registration</langtype>
+  </key>
+  <key name="MemberInfo">
+    <langtype name="zh-cn">会员信息</langtype>
+    <langtype name="en-us">Member Info</langtype>
+  </key>
+  <key name="Level">
+    <langtype name="zh-cn">级别</langtype>
+    <langtype name="en-us">Level</langtype>
+  </key>
+  <key name="leftTotal">
+    <langtype name="zh-cn">左区总业绩</langtype>
+    <langtype name="en-us">Left total performance</langtype>
+  </key>
+  <key name="RightTotal">
+    <langtype name="zh-cn">右区总业绩</langtype>
+    <langtype name="en-us">Right  total performance</langtype>
+  </key>
+  <key name="leftNew">
+    <langtype name="zh-cn">左区新增业绩</langtype>
+    <langtype name="en-us">Left the district released results</langtype>
+  </key>
+  <key name="RightNew">
+    <langtype name="zh-cn">右区新增业绩</langtype>
+    <langtype name="en-us">Right the district released results</langtype>
+  </key>
+  <key name="leftYu">
+    <langtype name="zh-cn">左区剩余业绩</langtype>
+    <langtype name="en-us">The left residual performance</langtype>
+  </key>
+  <key name="RightYu">
+    <langtype name="zh-cn">右区剩余业绩</langtype>
+    <langtype name="en-us">The right residual performance</langtype>
+  </key>
+  <key name="RegistrationHours">
+    <langtype name="zh-cn">注册时间</langtype>
+    <langtype name="en-us">Registration hours</langtype>
+  </key>
+  <key name="Operation">
+    <langtype name="zh-cn">操作</langtype>
+    <langtype name="en-us">Operation</langtype>
+  </key>
+  <key name="Cancel">
+    <langtype name="zh-cn">取消</langtype>
+    <langtype name="en-us">Cancel</langtype>
+  </key>
+  <key name="Display">
+    <langtype name="zh-cn">显示</langtype>
+    <langtype name="en-us">Display</langtype>
+  </key>
+  <key name="dao">
+    <langtype name="zh-cn">到</langtype>
+    <langtype name="en-us">To</langtype>
+  </key>
+  <key name="gong">
+    <langtype name="zh-cn">共</langtype>
+    <langtype name="en-us">A total of</langtype>
+  </key>
+  <key name="Records">
+    <langtype name="zh-cn">记录</langtype>
+    <langtype name="en-us">Records</langtype>
+  </key>
+  <key name="PerPage">
+    <langtype name="zh-cn">每页</langtype>
+    <langtype name="en-us">Per page</langtype>
+  </key>
+  <key name="Article">
+    <langtype name="zh-cn">条</langtype>
+    <langtype name="en-us">Article</langtype>
+  </key>
+  <key name="select">
+    <langtype name="zh-cn">选择下拉</langtype>
+    <langtype name="en-us">Select the drop down</langtype>
+  </key>
+  <key name="OpeningDate">
+    <langtype name="zh-cn">开通日期</langtype>
+    <langtype name="en-us">Opening date</langtype>
+  </key>
+  <key name="MemberName">
+    <langtype name="zh-cn">会员姓名</langtype>
+    <langtype name="en-us">Member name</langtype>
+  </key>
+  <key name="UpgradeLevels">
+    <langtype name="zh-cn">升级级别</langtype>
+    <langtype name="en-us">Upgrade levels</langtype>
+  </key>
+  <key name="PaidAmount">
+    <langtype name="zh-cn">缴纳金额</langtype>
+    <langtype name="en-us">Paid amount</langtype>
+  </key>
+  <key name="UpgradeBeforeLevels">
+    <langtype name="zh-cn">升级前级别</langtype>
+    <langtype name="en-us">Upgrade levels</langtype>
+  </key>
+  <key name="TheUpgradeLevels">
+    <langtype name="zh-cn">升级后级别</langtype>
+    <langtype name="en-us">The upgraded level</langtype>
+  </key>
+  <key name="Shenqing">
+    <langtype name="zh-cn">申请日期</langtype>
+    <langtype name="en-us">Date of application </langtype>
+  </key>
+  <key name="Notes">
+    <langtype name="zh-cn">备注</langtype>
+    <langtype name="en-us">Notes</langtype>
+  </key>
+  <key name="Audit">
+    <langtype name="zh-cn">审核中...</langtype>
+    <langtype name="en-us">Audit ...</langtype>
+  </key>
+  <key name="LeftScore">
+    <langtype name="zh-cn">左区总业绩积分</langtype>
+    <langtype name="en-us">Left district performance score</langtype>
+  </key>
+  <key name="RightScore">
+    <langtype name="zh-cn">右区总业绩积分</langtype>
+    <langtype name="en-us">Right district performance score</langtype>
+  </key>
+  <key name="HonoursLevel">
+    <langtype name="zh-cn">荣誉级别</langtype>
+    <langtype name="en-us">Honours level</langtype>
+  </key>
+  <key name="HonorAward">
+    <langtype name="zh-cn">荣誉奖励</langtype>
+    <langtype name="en-us">Honor Award</langtype>
+  </key>
+  <key name="NotHonor">
+    <langtype name="zh-cn">您尚未获得任何荣誉。</langtype>
+    <langtype name="en-us">You have not yet received any honors.</langtype>
+  </key>
+  <key name="EntryCumulative">
+    <langtype name="zh-cn">报单奖累计</langtype>
+    <langtype name="en-us">Entry prize cumulative</langtype>
+  </key>
+  <key name="RecommendedCumulative">
+    <langtype name="zh-cn">直推奖累计</langtype>
+    <langtype name="en-us">Award of the cumulative</langtype>
+  </key>
+  <key name="ShareOutCumulative">
+    <langtype name="zh-cn">日分红奖累计</langtype>
+    <langtype name="en-us">The cumulative day of share out bonus award</langtype>
+  </key>
+  <key name="ManagementCumulative">
+    <langtype name="zh-cn">团队管理奖累计</langtype>
+    <langtype name="en-us">Management Award Cumulative</langtype>
+  </key>
+  <key name="ShoppingCumulative">
+    <langtype name="zh-cn">管理奖累计</langtype>
+    <langtype name="en-us">Shopping Award Cumulative</langtype>
+  </key>
+  <key name="BonusCumulative">
+    <langtype name="zh-cn">奖金累计</langtype>
+    <langtype name="en-us">Bonus Cumulative</langtype>
+  </key>
+  <key name="CurrencyCumulative">
+    <langtype name="zh-cn">流通币累计</langtype>
+    <langtype name="en-us">Currency Cumulative</langtype>
+  </key>
+  <key name="MDDCumulative">
+    <langtype name="zh-cn">MDD钻币累计</langtype>
+    <langtype name="en-us">MDD drill Cumulative</langtype>
+  </key>
+  <key name="PlatformCumulative">
+    <langtype name="zh-cn">平台费用累计</langtype>
+    <langtype name="en-us">Platform cost Cumulative</langtype>
+  </key>
+  <key name="CumulativeTotal">
+    <langtype name="zh-cn">应发累计</langtype>
+    <langtype name="en-us">Cumulative total</langtype>
+  </key>
+  <key name="TotalBMoney">
+    <langtype name="zh-cn">奖金总额</langtype>
+    <langtype name="en-us">All Money In B</langtype>
+  </key>
+  <key name="Dividends">
+    <langtype name="zh-cn">竞拍分红累计</langtype>
+    <langtype name="en-us">Dividends accumulated profit</langtype>
+  </key>
+  <key name="Advertising">
+    <langtype name="zh-cn">广告分红累计</langtype>
+    <langtype name="en-us">Advertising bonuses accumulated</langtype>
+  </key>
+  <key name="capital">
+    <langtype name="zh-cn">创业基金累计</langtype>
+    <langtype name="en-us">Venture capital funds cumulative</langtype>
+  </key>
+  <key name="FalseTrojan">
+    <langtype name="zh-cn">实发累计</langtype>
+    <langtype name="en-us">False Trojan</langtype>
+  </key>
+  <key name="SettlementDate">
+    <langtype name="zh-cn">结算日期</langtype>
+    <langtype name="en-us">Date of settlement</langtype>
+  </key>
+  <key name="Entryprize">
+    <langtype name="zh-cn">报单奖</langtype>
+    <langtype name="en-us">Entry prize</langtype>
+  </key>
+  <key name="Recommended">
+    <langtype name="zh-cn">直推奖</langtype>
+    <langtype name="en-us">Recommended Award</langtype>
+  </key>
+  <key name="Shareout">
+    <langtype name="zh-cn">日分红奖</langtype>
+    <langtype name="en-us">Day bonus award</langtype>
+  </key>
+  <key name="ManagementAward">
+    <langtype name="zh-cn">团队管理奖</langtype>
+    <langtype name="en-us">Management Award</langtype>
+  </key>
+  <key name="ShoppingAward">
+    <langtype name="zh-cn">购物奖</langtype>
+    <langtype name="en-us">Shopping Award</langtype>
+  </key>
+  <key name="ShouldMade">
+    <langtype name="zh-cn">应发</langtype>
+    <langtype name="en-us">Should be made</langtype>
+  </key>
+  <key name="RealHair">
+    <langtype name="zh-cn">实发</langtype>
+    <langtype name="en-us">Real hair</langtype>
+  </key>
+  <key name="TheTransferAmount">
+    <langtype name="zh-cn">转账金额</langtype>
+    <langtype name="en-us">The transfer amount</langtype>
+  </key>
+  <key name="DateTransfer">
+    <langtype name="zh-cn">转账日期</langtype>
+    <langtype name="en-us">Date of transfer</langtype>
+  </key>
+  <key name="TransferType">
+    <langtype name="zh-cn">转账类型</langtype>
+    <langtype name="en-us">Transfer type</langtype>
+  </key>
+  <key name="ChooseTransfer">
+    <langtype name="zh-cn">请选择转账类型</langtype>
+    <langtype name="en-us">Please choose transfer type</langtype>
+  </key>
+  <key name="Chongzhi">
+    <langtype name="zh-cn">充值电子币</langtype>
+    <langtype name="en-us">Recharge electronic token</langtype>
+  </key>
+  <key name="RemittanceAdvice">
+    <langtype name="zh-cn">汇款单</langtype>
+    <langtype name="en-us">Remittance advice</langtype>
+  </key>
+  <key name="RemittanceBank">
+    <langtype name="zh-cn">汇入银行</langtype>
+    <langtype name="en-us">Into the Bank</langtype>
+  </key>
+  <key name="IntoAccount">
+    <langtype name="zh-cn">汇入账户</langtype>
+    <langtype name="en-us">Into account</langtype>
+  </key>
+  <key name="LuRu">
+    <langtype name="zh-cn">录入信息</langtype>
+    <langtype name="en-us">Recording information: Please verify your member number</langtype>
+  </key>
+  <key name="YourName">
+    <langtype name="zh-cn">您的姓名</langtype>
+    <langtype name="en-us">Your name</langtype>
+  </key>
+  <key name="Yourlevel">
+    <langtype name="zh-cn">您的级别</langtype>
+    <langtype name="en-us">Your level</langtype>
+  </key>
+  <key name="remittance">
+    <langtype name="zh-cn">汇款金额</langtype>
+    <langtype name="en-us">Amount of remittance</langtype>
+  </key>
+  <key name="OutBank">
+    <langtype name="zh-cn">汇出银行</langtype>
+    <langtype name="en-us">Remittance bank</langtype>
+  </key>
+  <key name="RemittanceAccount">
+    <langtype name="zh-cn">汇出账户</langtype>
+    <langtype name="en-us">Remittance account</langtype>
+  </key>
+  <key name="RemittanceNotes">
+    <langtype name="zh-cn">汇款备注</langtype>
+    <langtype name="en-us">Remittance notes</langtype>
+  </key>
+  <key name="RechargeMethods">
+    <langtype name="zh-cn">充值方式</langtype>
+    <langtype name="en-us">Recharge methods</langtype>
+  </key>
+  <key name="BankTransfer">
+    <langtype name="zh-cn">银行汇款</langtype>
+    <langtype name="en-us">Bank transfer</langtype>
+  </key>
+  <key name="OnlineRecharge">
+    <langtype name="zh-cn">在线充值</langtype>
+    <langtype name="en-us">Online recharge</langtype>
+  </key>
+  <key name="Reset">
+    <langtype name="zh-cn">重置</langtype>
+    <langtype name="en-us">Reset</langtype>
+  </key>
+  <key name="RemittanceRecords">
+    <langtype name="zh-cn">汇款记录</langtype>
+    <langtype name="en-us">Remittance records</langtype>
+  </key>
+  <key name="RemittanceTime">
+    <langtype name="zh-cn">汇款具体时间</langtype>
+    <langtype name="en-us">Remittance time</langtype>
+  </key>
+  <key name="TransferTime">
+    <langtype name="zh-cn">转账具体时间</langtype>
+    <langtype name="en-us">Transfer time</langtype>
+  </key>
+  <key name="WithdrawalAmount">
+    <langtype name="zh-cn">提现金额</langtype>
+    <langtype name="en-us">Withdrawal amount</langtype>
+  </key>
+  <key name="ActualAmount">
+    <langtype name="zh-cn">到账金额</langtype>
+    <langtype name="en-us">Arrival amount</langtype>
+  </key>
+  <key name="WithdrawalFee">
+    <langtype name="zh-cn">提现手续费</langtype>
+    <langtype name="en-us">Withdrawal fee</langtype>
+  </key>
+  <key name="DateWithdrawal">
+    <langtype name="zh-cn">提现日期</langtype>
+    <langtype name="en-us">Date of withdrawal</langtype>
+  </key>
+  <key name="WithdrawalRecords">
+    <langtype name="zh-cn">提现记录</langtype>
+    <langtype name="en-us">Withdrawal records</langtype>
+  </key>
+  <key name="Withdrawal">
+    <langtype name="zh-cn">已提现金额</langtype>
+    <langtype name="en-us">Withdrawal amount</langtype>
+  </key>
+  <key name="BToE">
+    <langtype name="zh-cn">奖金币转E币</langtype>
+    <langtype name="en-us">Bonus-currency transfer auction-currency</langtype>
+  </key>
+  <key name="EToM">
+    <langtype name="zh-cn">E币转其他会员</langtype>
+    <langtype name="en-us">Auction currency to another Member</langtype>
+  </key>
+  <key name="BToM">
+    <langtype name="zh-cn">奖金币转其他会员</langtype>
+    <langtype name="en-us">Bonus-currency go other members</langtype>
+  </key>
+  <key name="MemberNickname">
+    <langtype name="zh-cn">昵称</langtype>
+    <langtype name="en-us">Nickname</langtype>
+  </key>
+  <key name="BuyGoldOne">
+    <langtype name="zh-cn">购买EP</langtype>
+    <langtype name="en-us">Buy EP</langtype>
+  </key>
+  <key name="ReleaseTime">
+    <langtype name="zh-cn">发布时间</langtype>
+    <langtype name="en-us">Release time</langtype>
+  </key>
+  <key name="Publisher">
+    <langtype name="zh-cn">发布者</langtype>
+    <langtype name="en-us">Publisher</langtype>
+  </key>
+  <key name="AllRecords">
+    <langtype name="zh-cn">所有记录</langtype>
+    <langtype name="en-us">All records</langtype>
+  </key>
+  <key name="NotSold">
+    <langtype name="zh-cn">未销售</langtype>
+    <langtype name="en-us">Not sold</langtype>
+  </key>
+  <key name="Non-payment">
+    <langtype name="zh-cn">未付款</langtype>
+    <langtype name="en-us">Non-payment</langtype>
+  </key>
+  <key name="ToBeShipped">
+    <langtype name="zh-cn">待发货</langtype>
+    <langtype name="en-us">To be shipped</langtype>
+  </key>
+  <key name="Shipped">
+    <langtype name="zh-cn">已发货</langtype>
+    <langtype name="en-us">Shipped</langtype>
+  </key>
+  <key name="Completed">
+    <langtype name="zh-cn">已完成</langtype>
+    <langtype name="en-us">Completed</langtype>
+  </key>
+  <key name="Undone">
+    <langtype name="zh-cn">已撤销</langtype>
+    <langtype name="en-us">The order was cancel</langtype>
+  </key>
+  <key name="NotRevoked">
+    <langtype name="zh-cn">未撤销</langtype>
+    <langtype name="en-us">Not revoked</langtype>
+  </key>
+  <key name="Revoke">
+    <langtype name="zh-cn">撤销</langtype>
+    <langtype name="en-us">Revoke</langtype>
+  </key>
+  <key name="NoSCurrency">
+    <langtype name="zh-cn">没有购物币？</langtype>
+    <langtype name="en-us">No shopping currency?</langtype>
+  </key>
+  <key name="Immediately">
+    <langtype name="zh-cn">马上充值</langtype>
+    <langtype name="en-us">Immediately recharge</langtype>
+  </key>
+  <key name="Time">
+    <langtype name="zh-cn">时间</langtype>
+    <langtype name="en-us">Time</langtype>
+  </key>
+  <key name="MyOrder">
+    <langtype name="zh-cn">我的订单</langtype>
+    <langtype name="en-us">My Order</langtype>
+  </key>
+  <key name="OrderNumber">
+    <langtype name="zh-cn">订单编号</langtype>
+    <langtype name="en-us">Order number</langtype>
+  </key>
+    <key name="OrderAmount">
+    <langtype name="zh-cn">订单金额</langtype>
+    <langtype name="en-us">Order amount</langtype>
+  </key>
+      <key name="OrderTimes">
+    <langtype name="zh-cn">订单时间</langtype>
+    <langtype name="en-us">Order time</langtype>
+  </key>
+  <key name="OrderType">
+    <langtype name="zh-cn">订单类型</langtype>
+    <langtype name="en-us">Order Type</langtype>
+  </key>
+  <key name="PurchaseQuantity">
+    <langtype name="zh-cn">购买数量</langtype>
+    <langtype name="en-us">Purchase quantity</langtype>
+  </key>
+  <key name="Total">
+    <langtype name="zh-cn">总金额/总积分</langtype>
+    <langtype name="en-us">Total/total points</langtype>
+  </key>
+  <key name="Express">
+    <langtype name="zh-cn">快递公司</langtype>
+    <langtype name="en-us">Express company</langtype>
+  </key>
+  <key name="ExpressOrder">
+    <langtype name="zh-cn">单号</langtype>
+    <langtype name="en-us">Express order</langtype>
+  </key>
+  <key name="PaymentType">
+    <langtype name="zh-cn">支付类型</langtype>
+    <langtype name="en-us">Payment type</langtype>
+  </key>
+  <key name="GoldTrading">
+    <langtype name="zh-cn">EP交易</langtype>
+    <langtype name="en-us">EP transaction</langtype>
+  </key>
+  <key name="TradingHall">
+    <langtype name="zh-cn">流通币交易大厅</langtype>
+    <langtype name="en-us">Currency Trading Hall</langtype>
+  </key>
+  <key name="TradingFloor">
+    <langtype name="zh-cn">交易大厅</langtype>
+    <langtype name="en-us">Trading Floor</langtype>
+  </key>
+  <key name="BuyGold">
+    <langtype name="zh-cn">我要购买</langtype>
+    <langtype name="en-us">Buy Gold</langtype>
+  </key>
+  <key name="BuyGoldOne">
+    <langtype name="zh-cn">购买金币</langtype>
+    <langtype name="en-us">Buy Gold</langtype>
+  </key>
+  <key name="MDDGoldTrading">
+    <langtype name="zh-cn">MDD钻股币增值</langtype>
+    <langtype name="en-us">MDD Drilling shares</langtype>
+  </key>
+  <key name="MDDGoldFutures">
+    <langtype name="zh-cn">MDD钻股币预购</langtype>
+    <langtype name="en-us">MDD Drilling futures</langtype>
+  </key>
+  <key name="PurchaseList">
+    <langtype name="zh-cn">已购列表</langtype>
+    <langtype name="en-us">Purchase list</langtype>
+  </key>
+  <key name="SoldList">
+    <langtype name="zh-cn">已卖列表</langtype>
+    <langtype name="en-us">Sold list</langtype>
+  </key>
+  <key name="ConsignmentInfo">
+    <langtype name="zh-cn">寄售信息</langtype>
+    <langtype name="en-us">Consignment Info</langtype>
+  </key>
+  <key name="ConsignmentOver">
+    <langtype name="zh-cn">寄售数量已超额</langtype>
+    <langtype name="en-us">Consignment number has been oversubscribed</langtype>
+  </key>
+  <key name="PurchaseInfo">
+    <langtype name="zh-cn">求购信息</langtype>
+    <langtype name="en-us">Purchase Info</langtype>
+  </key>
+  <key name="CommissionedSell">
+    <langtype name="zh-cn">委托卖出</langtype>
+    <langtype name="en-us">Commissioned to sell</langtype>
+  </key>
+  <key name="CommissionedBuy">
+    <langtype name="zh-cn">委托买入</langtype>
+    <langtype name="en-us">Commissioned to buy</langtype>
+  </key>
+  <key name="CreditRating">
+    <langtype name="zh-cn">信誉等级</langtype>
+    <langtype name="en-us">Credit rating</langtype>
+  </key>
+  <key name="SellersRating">
+    <langtype name="zh-cn">卖家信誉等级</langtype>
+    <langtype name="en-us">Sellers credit rating</langtype>
+  </key>
+  <key name="BuyersRating">
+    <langtype name="zh-cn">买家信誉等级</langtype>
+    <langtype name="en-us">Buyers of credit rating</langtype>
+  </key>
+  <key name="Seller">
+    <langtype name="zh-cn">卖家</langtype>
+    <langtype name="en-us">Seller</langtype>
+  </key>
+  <key name="SellerInfo">
+    <langtype name="zh-cn">卖家信息</langtype>
+    <langtype name="en-us">Seller Info</langtype>
+  </key>
+  <key name="WaitingPay">
+    <langtype name="zh-cn">等待付款</langtype>
+    <langtype name="en-us">Waiting for payment</langtype>
+  </key>
+  <key name="WaitingConfirmPay">
+    <langtype name="zh-cn">确认付款中</langtype>
+    <langtype name="en-us">Confirm the payment</langtype>
+  </key>
+  <key name="WaitingConfirmPayWait">
+    <langtype name="zh-cn">未收到付款，待审核</langtype>
+    <langtype name="en-us">No payment received, pending review</langtype>
+  </key>
+  <key name="WaitingDelivery">
+    <langtype name="zh-cn">等待发货</langtype>
+    <langtype name="en-us">Waiting for delivery</langtype>
+  </key>
+  <key name="BuyRecords">
+    <langtype name="zh-cn">买入记录</langtype>
+    <langtype name="en-us">Buy Records</langtype>
+  </key>
+  <key name="GoldBuyRecords">
+    <langtype name="zh-cn">金币购买记录</langtype>
+    <langtype name="en-us">Gold coins to buy records</langtype>
+  </key>
+  <key name="PurchaseTime">
+    <langtype name="zh-cn">购买时间</langtype>
+    <langtype name="en-us">Purchase Time</langtype>
+  </key>
+  <key name="PurchasePrice">
+    <langtype name="zh-cn">购进价格</langtype>
+    <langtype name="en-us">Purchase price</langtype>
+  </key>
+  <key name="PurchaseRecords">
+    <langtype name="zh-cn">求购记录</langtype>
+    <langtype name="en-us">Buy Records</langtype>
+  </key>
+  <key name="SellCount">
+    <langtype name="zh-cn">卖出数量</langtype>
+    <langtype name="en-us">Sell Count</langtype>
+  </key>
+  <key name="Sale">
+    <langtype name="zh-cn">我要卖出</langtype>
+    <langtype name="en-us">Sale</langtype>
+  </key>
+  <key name="Purchase">
+    <langtype name="zh-cn">我要求购</langtype>
+    <langtype name="en-us">Purchase</langtype>
+  </key>
+  <key name="GoldSales">
+    <langtype name="zh-cn">金币销售记录</langtype>
+    <langtype name="en-us">Gold sales record</langtype>
+  </key>
+  <key name="SellRecords">
+    <langtype name="zh-cn">卖出记录</langtype>
+    <langtype name="en-us">Sell records</langtype>
+  </key>
+  <key name="QQNumber">
+    <langtype name="zh-cn">QQ号码</langtype>
+    <langtype name="en-us">QQ number</langtype>
+  </key>
+  <key name="QQNumberEmpty">
+    <langtype name="zh-cn">QQ号码不能为空</langtype>
+    <langtype name="en-us">QQ number can not be empty</langtype>
+  </key>
+  <key name="QQNumberCorrect">
+    <langtype name="zh-cn">QQ号码格式不正确</langtype>
+    <langtype name="en-us">QQ number format is not correct</langtype>
+  </key>
+  <key name="Email">
+    <langtype name="zh-cn">电子邮箱</langtype>
+    <langtype name="en-us">Electronic mail</langtype>
+  </key>
+  <key name="SellerRatings">
+    <langtype name="zh-cn">卖家评分</langtype>
+    <langtype name="en-us">Seller Ratings</langtype>
+  </key>
+  <key name="Buyers">
+    <langtype name="zh-cn">买家</langtype>
+    <langtype name="en-us">Buyers</langtype>
+  </key>
+  <key name="BuyersInfo">
+    <langtype name="zh-cn">买家信息</langtype>
+    <langtype name="en-us">Buyers Info</langtype>
+  </key>
+  <key name="BuyersRatings">
+    <langtype name="zh-cn">买家评分</langtype>
+    <langtype name="en-us">Buyers Ratings</langtype>
+  </key>
+  <key name="TitleGoods">
+    <langtype name="zh-cn">商品标题</langtype>
+    <langtype name="en-us">The title of goods</langtype>
+  </key>
+  <key name="CommodityInfo">
+    <langtype name="zh-cn">商品信息</langtype>
+    <langtype name="en-us">Commodity info</langtype>
+  </key>
+  <key name="CommodityPrices">
+    <langtype name="zh-cn">商品单价</langtype>
+    <langtype name="en-us">commodity prices</langtype>
+  </key>
+  <key name="GoodsAmount">
+    <langtype name="zh-cn">售卖金额</langtype>
+    <langtype name="en-us">The amount of goods</langtype>
+  </key>
+  <key name="Quantity">
+    <langtype name="zh-cn">商品数量</langtype>
+    <langtype name="en-us">Goods Quantity</langtype>
+  </key>
+  <key name="AmountOfPurchase">
+    <langtype name="zh-cn">购买金额</langtype>
+    <langtype name="en-us">Amount of purchase</langtype>
+  </key>
+  <key name="SellingPrice">
+    <langtype name="zh-cn">卖出价格</langtype>
+    <langtype name="en-us">Selling price</langtype>
+  </key>
+  <key name="NoAmount">
+    <langtype name="zh-cn">未购金额</langtype>
+    <langtype name="en-us">No purchase amount</langtype>
+  </key>
+  <key name="PurchaseStatus">
+    <langtype name="zh-cn">购买状态</langtype>
+    <langtype name="en-us">Purchase status</langtype>
+  </key>
+  <key name="GoldBalance">
+    <langtype name="zh-cn">交易币余额</langtype>
+    <langtype name="en-us">Cash account balance</langtype>
+  </key>
+  <key name="GoldCoin">
+    <langtype name="zh-cn">个交易币</langtype>
+    <langtype name="en-us">Cash coin</langtype>
+  </key>
+  <key name="FeeCoin">
+    <langtype name="zh-cn">个保证金</langtype>
+    <langtype name="en-us">Transaction code</langtype>
+  </key>
+  <key name="Mini">
+    <langtype name="zh-cn">最少</langtype>
+    <langtype name="en-us">Minimum</langtype>
+  </key>
+  <key name="PQuantity">
+    <langtype name="zh-cn">求购数量</langtype>
+    <langtype name="en-us">Purchase Quantity</langtype>
+  </key>
+  <key name="OrderTime">
+    <langtype name="zh-cn">下订时间</langtype>
+    <langtype name="en-us">Order time</langtype>
+  </key>
+  <key name="BuyNote">
+    <langtype name="zh-cn">购买备注</langtype>
+    <langtype name="en-us">Buy note</langtype>
+  </key>
+  <key name="SalesNote">
+    <langtype name="zh-cn">销售备注</langtype>
+    <langtype name="en-us">Sales note</langtype>
+  </key>
+  <key name="HQuantity">
+    <langtype name="zh-cn">已购数量</langtype>
+    <langtype name="en-us">Had buy quantity</langtype>
+  </key>
+  <key name="ExceedPurchase">
+    <langtype name="zh-cn">卖出数量不能超过求购数量</langtype>
+    <langtype name="en-us">Sell quantity can not exceed the purchase quantity</langtype>
+  </key>
+  <key name="EntrustmentDate">
+    <langtype name="zh-cn">委托日期</langtype>
+    <langtype name="en-us">Date of entrustment</langtype>
+  </key>
+  <key name="DateSold">
+    <langtype name="zh-cn">卖出日期</langtype>
+    <langtype name="en-us">Date Sold</langtype>
+  </key>
+  <key name="PurchaseDate">
+    <langtype name="zh-cn">求购日期</langtype>
+    <langtype name="en-us">Purchase date</langtype>
+  </key>
+  <key name="GoldInsufficient">
+    <langtype name="zh-cn">金币不足，请重新填写数据之后再试！</langtype>
+    <langtype name="en-us">Gold is insufficient, please fill in the data again then try again!</langtype>
+  </key>
+  <key name="AvailableGold">
+    <langtype name="zh-cn">现在没有可供售卖的金币！</langtype>
+    <langtype name="en-us">There is no available for sale of gold COINS!</langtype>
+  </key>
+  <key name="CanORNo">
+    <langtype name="zh-cn">你现在的会员状态不能售卖金币！</langtype>
+    <langtype name="en-us">You can't sell gold now a member of the state!</langtype>
+  </key>
+  <key name="MustBe">
+    <langtype name="zh-cn">必须大于</langtype>
+    <langtype name="en-us">Must be greater than</langtype>
+  </key>
+  <key name="Minimum">
+    <langtype name="zh-cn">商品数量必须大于最小交易额</langtype>
+    <langtype name="en-us">Quantity must be greater than the minimum volume!</langtype>
+  </key>
+  <key name="Factorage">
+    <langtype name="zh-cn">手续费</langtype>
+    <langtype name="en-us">factorage</langtype>
+  </key>
+  <key name="QuantityPayment">
+    <langtype name="zh-cn">付款数量</langtype>
+    <langtype name="en-us">Payment</langtype>
+  </key>
+  <key name="QuantityArrival">
+    <langtype name="zh-cn">到账数量</langtype>
+    <langtype name="en-us">Arrival</langtype>
+  </key>
+  <key name="GoldInfo">
+    <langtype name="zh-cn">金币信息</langtype>
+    <langtype name="en-us">Gold Info</langtype>
+  </key>
+  <key name="Buy">
+    <langtype name="zh-cn">购买</langtype>
+    <langtype name="en-us">Buy</langtype>
+  </key>
+  <key name="TradesSuccessfully">
+    <langtype name="zh-cn">交易成功</langtype>
+    <langtype name="en-us">Trades Successfully</langtype>
+  </key>
+  <key name="TradesFailed">
+    <langtype name="zh-cn">交易失败</langtype>
+    <langtype name="en-us">Trades Failed</langtype>
+  </key>
+  <key name="OrderInformation">
+    <langtype name="zh-cn">订单信息</langtype>
+    <langtype name="en-us">Order information</langtype>
+  </key>
+  <key name="OrderDetails">
+    <langtype name="zh-cn">订单明细</langtype>
+    <langtype name="en-us">Order details</langtype>
+  </key>
+  <key name="AddressEmpty">
+    <langtype name="zh-cn">收货地址不能为空</langtype>
+    <langtype name="en-us">Delivery address can not be empty</langtype>
+  </key>
+  <key name="ConsigneeEmpty">
+    <langtype name="zh-cn">收货人不能为空</langtype>
+    <langtype name="en-us">The consignee can not be empty</langtype>
+  </key>
+  <key name="CommonEmpty">
+    <langtype name="zh-cn">常用号码不能为空</langtype>
+    <langtype name="en-us">Common number can not be empty</langtype>
+  </key>
+  <key name="ConsigneeName">
+    <langtype name="zh-cn">收货人姓名</langtype>
+    <langtype name="en-us">Consignee Name</langtype>
+  </key>
+  <key name="ShopAddress">
+    <langtype name="zh-cn">收货地址</langtype>
+    <langtype name="en-us">Shipping address</langtype>
+  </key>
+  <key name="DetailedAddress">
+    <langtype name="zh-cn">详细地址</langtype>
+    <langtype name="en-us">Detailed address</langtype>
+  </key>
+  <key name="CommonPhone">
+    <langtype name="zh-cn">常用手机号</langtype>
+    <langtype name="en-us">Common phone</langtype>
+  </key>
+  <key name="StandbyPhone">
+    <langtype name="zh-cn">备用手机号</langtype>
+    <langtype name="en-us">Standby phone</langtype>
+  </key>
+  <key name="SetDefault">
+    <langtype name="zh-cn">设为默认地址</langtype>
+    <langtype name="en-us">Set default</langtype>
+  </key>
+  <key name="Edit">
+    <langtype name="zh-cn">编辑</langtype>
+    <langtype name="en-us">Edit</langtype>
+  </key>
+  <key name="Default">
+    <langtype name="zh-cn">默认</langtype>
+    <langtype name="en-us">Default</langtype>
+  </key>
+  <key name="IsDefault">
+    <langtype name="zh-cn">是否默认</langtype>
+    <langtype name="en-us">Is Default</langtype>
+  </key>
+  <key name="AddressList">
+    <langtype name="zh-cn">地址列表</langtype>
+    <langtype name="en-us">Address list</langtype>
+  </key>
+  <key name="AddTime">
+    <langtype name="zh-cn">添加时间</langtype>
+    <langtype name="en-us">Add time</langtype>
+  </key>
+  <key name="TheTotalAmount">
+    <langtype name="zh-cn">总金额</langtype>
+    <langtype name="en-us">Total amount</langtype>
+  </key>
+  <key name="ItemNumber">
+    <langtype name="zh-cn">商品编号</langtype>
+    <langtype name="en-us">Item number</langtype>
+  </key>
+  <key name="CommodityName">
+    <langtype name="zh-cn">商品名称</langtype>
+    <langtype name="en-us">Commodity name</langtype>
+  </key>
+  <key name="CommodityPrice">
+    <langtype name="zh-cn">商品价格</langtype>
+    <langtype name="en-us">Commodity prices</langtype>
+  </key>
+  <key name="InventoryQuantity">
+    <langtype name="zh-cn">库存数量</langtype>
+    <langtype name="en-us">Inventory quantity</langtype>
+  </key>
+  <key name="ProductScore">
+    <langtype name="zh-cn">商品积分</langtype>
+    <langtype name="en-us">Product score</langtype>
+  </key>
+  <key name="DateOfPurchase">
+    <langtype name="zh-cn">购买日期</langtype>
+    <langtype name="en-us">Date of purchase</langtype>
+  </key>
+  <key name="AuctionGoods">
+    <langtype name="zh-cn">竞拍商品</langtype>
+    <langtype name="en-us">Auction goods</langtype>
+  </key>
+  <key name="BidPrice">
+    <langtype name="zh-cn">竞拍价</langtype>
+    <langtype name="en-us">Bid price</langtype>
+  </key>
+  <key name="Pleasepassword">
+    <langtype name="zh-cn">请输入支付密码</langtype>
+    <langtype name="en-us">Please enter two password</langtype>
+  </key>
+  <key name="PleaseThreePassword">
+    <langtype name="zh-cn">请输入三级密码</langtype>
+    <langtype name="en-us">Please enter three password</langtype>
+  </key>
+  <key name="CancelWithdrawal">
+    <langtype name="zh-cn">取消提现</langtype>
+    <langtype name="en-us">Cancel withdrawal</langtype>
+  </key>
+  <key name="Modifications">
+    <langtype name="zh-cn">修改资料成功</langtype>
+    <langtype name="en-us">Modifications succeeded</langtype>
+  </key>
+  <key name="FailedModify">
+    <langtype name="zh-cn">修改资料失败</langtype>
+    <langtype name="en-us">Failed to modify information</langtype>
+  </key>
+  <key name="PleaseSelectBank">
+    <langtype name="zh-cn">请选择开户银行</langtype>
+    <langtype name="en-us">Please select Bank</langtype>
+  </key>
+  <key name="Banklocation">
+    <langtype name="zh-cn">请选择银行所在地</langtype>
+    <langtype name="en-us">Please select Bank's location</langtype>
+  </key>
+  <key name="BankIsNull">
+    <langtype name="zh-cn">银行支行不能为空</langtype>
+    <langtype name="en-us">Bank branch cannot be empty</langtype>
+  </key>
+  <key name="BankCardIsNull">
+    <langtype name="zh-cn">银行卡号不能为空</langtype>
+    <langtype name="en-us">Bank card number cannot be blank</langtype>
+  </key>
+  <key name="BankCardErrors">
+    <langtype name="zh-cn">银行卡号输入错误</langtype>
+    <langtype name="en-us">Bank card number input errors</langtype>
+  </key>
+  <key name="NameIsNull">
+    <langtype name="zh-cn">开户名不能为空</langtype>
+    <langtype name="en-us">Account name cannot be empty</langtype>
+  </key>
+  <key name="NameMust">
+    <langtype name="zh-cn">开户名必须为2-30个中英文</langtype>
+    <langtype name="en-us">Account name must be 2-30 in English</langtype>
+  </key>
+  <key name="AccountIsNull">
+    <langtype name="zh-cn">姓名不能为空</langtype>
+    <langtype name="en-us">Name cannot be empty</langtype>
+  </key>
+  <key name="AccountMust">
+    <langtype name="zh-cn">姓名必须为2-30个中英文</langtype>
+    <langtype name="en-us">Name must be 2-30 in English</langtype>
+  </key>
+  <key name="CardIDIsNull">
+    <langtype name="zh-cn">身份证号不能为空</langtype>
+    <langtype name="en-us">ID cannot be null</langtype>
+  </key>
+  <key name="CardIDMust">
+    <langtype name="zh-cn">身份证号格式错误</langtype>
+    <langtype name="en-us">Social security number format errors</langtype>
+  </key>
+  <key name="Phoneempty">
+    <langtype name="zh-cn">手机号码不能为空</langtype>
+    <langtype name="en-us">Contact phone can not be empty</langtype>
+  </key>
+  <key name="PhoneMust">
+    <langtype name="zh-cn">手机号码格式错误</langtype>
+    <langtype name="en-us">Phone format error</langtype>
+  </key>
+  <key name="IdenCodeReg">
+    <langtype name="zh-cn">身份证号注册会员个数已满</langtype>
+    <langtype name="en-us">ID number is full.</langtype>
+  </key>
+  <key name="PhoneReg">
+    <langtype name="zh-cn">手机号码注册会员个数已满</langtype>
+    <langtype name="en-us">Contact phone number is full</langtype>
+  </key>
+  <key name="PhoneRegExists">
+    <langtype name="zh-cn">该手机号码已注册</langtype>
+    <langtype name="en-us">The phone number has been registered</langtype>
+  </key>
+  <key name="PleaseSelectQuestion">
+    <langtype name="zh-cn">请选择密保问题</langtype>
+    <langtype name="en-us">Please select a secret question</langtype>
+  </key>
+  <key name="PleaseAnswer">
+    <langtype name="zh-cn">请输入密保答案</langtype>
+    <langtype name="en-us">Please enter a secret answer</langtype>
+  </key>
+  <key name="AddressIsnull">
+    <langtype name="zh-cn">联系地址不能为空</langtype>
+    <langtype name="en-us">Address cannot be empty</langtype>
+  </key>
+  <key name="PleaseNmae">
+    <langtype name="zh-cn">请输入用户名</langtype>
+    <langtype name="en-us">Please enter your user name</langtype>
+  </key>
+  <key name="PleaseEnter">
+    <langtype name="zh-cn">请输入密码</langtype>
+    <langtype name="en-us">Please enter password</langtype>
+  </key>
+  <key name="Verification">
+    <langtype name="zh-cn">验证码不能为空</langtype>
+    <langtype name="en-us">Verification code cannot be empty</langtype>
+  </key>
+  <key name="VerificationError">
+    <langtype name="zh-cn">验证码错误</langtype>
+    <langtype name="en-us">Verification code error</langtype>
+  </key>
+  <key name="SMSVerificationError">
+    <langtype name="zh-cn">短信验证码错误</langtype>
+    <langtype name="en-us">SMS Verification code error</langtype>
+  </key>
+  <key name="AccountError">
+    <langtype name="zh-cn">账号或密码错误</langtype>
+    <langtype name="en-us">Account or password error</langtype>
+  </key>
+  <key name="UserNmae">
+    <langtype name="zh-cn">用户名必须由6-10位的英文字母或数字组成</langtype>
+    <langtype name="en-us">User name must be 6-10-English letters or numbers</langtype>
+  </key>
+  <key name="existsrNmae">
+    <langtype name="zh-cn">该用户名已存在</langtype>
+    <langtype name="en-us">This user name already exists</langtype>
+  </key>
+  <key name="availableNmae">
+    <langtype name="zh-cn">该用户名可用</langtype>
+    <langtype name="en-us">The user name is available</langtype>
+  </key>
+  <key name="RegistrationFails">
+    <langtype name="zh-cn">注册失败，该会员编号已存在，请重新注册</langtype>
+    <langtype name="en-us">Registration fails, the number already exists, please re-register</langtype>
+  </key>
+  <key name="PleaseNumber">
+    <langtype name="zh-cn">请输入会员编号</langtype>
+    <langtype name="en-us">Please enter membership number</langtype>
+  </key>
+  <key name="MemberNumber">
+    <langtype name="zh-cn">会员编号必须由6-10位的英文字母或数字组成</langtype>
+    <langtype name="en-us">Member number must be 6-10-English letters or numbers</langtype>
+  </key>
+  <key name="Memberexists">
+    <langtype name="zh-cn">该会员编号已存在,请重新输入</langtype>
+    <langtype name="en-us">The Member ID already exists, please re-enter</langtype>
+  </key>
+  <key name="PasswordISNull">
+    <langtype name="zh-cn">登录密码不能为空</langtype>
+    <langtype name="en-us">Password cannot be empty</langtype>
+  </key>
+  <key name="ConfirmPasswordISNull">
+    <langtype name="zh-cn">确认密码不能为空</langtype>
+    <langtype name="en-us">Confirm password cannot be empty</langtype>
+  </key>
+  <key name="TwoPasswordMatch">
+    <langtype name="zh-cn">两次输入的登录密码不一致</langtype>
+    <langtype name="en-us">Two times to enter the login password do not match</langtype>
+  </key>
+  <key name="SecondaryISNUll">
+    <langtype name="zh-cn">支付密码不能为空</langtype>
+    <langtype name="en-us">Secondary password cannot be empty</langtype>
+  </key>
+  <key name="secondaryPasswordISNull">
+    <langtype name="zh-cn">确认支付密码不能为空</langtype>
+    <langtype name="en-us">Confirm your secondary password cannot be empty</langtype>
+  </key>
+  <key name="TwoSecondaryMatch">
+    <langtype name="zh-cn">两次输入的支付密码不一致</langtype>
+    <langtype name="en-us">Enter your secondary password twice is inconsistent</langtype>
+  </key>
+  <key name="ThreeISNUll">
+    <langtype name="zh-cn">三级密码不能为空</langtype>
+    <langtype name="en-us">Three levels of password can not be empty</langtype>
+  </key>
+  <key name="ThreePasswordISNull">
+    <langtype name="zh-cn">确认三级密码不能为空</langtype>
+    <langtype name="en-us">Identified three levels of password can not be empty</langtype>
+  </key>
+  <key name="TwoThreeMatch">
+    <langtype name="zh-cn">两次输入的三级密码不一致</langtype>
+    <langtype name="en-us">Twice entered three-level password did not match</langtype>
+  </key>
+  <key name="MemberLevel">
+    <langtype name="zh-cn">请选择要注册的会员级别</langtype>
+    <langtype name="en-us">Please select a registered member level</langtype>
+  </key>
+  <key name="AgentNumber">
+    <langtype name="zh-cn">服务网点编号不能为空</langtype>
+    <langtype name="en-us">Agent Center number cannot be blank</langtype>
+  </key>
+  <key name="AgentNumberExist">
+    <langtype name="zh-cn">服务网点编号不存在</langtype>
+    <langtype name="en-us">Agent Center number does not exist</langtype>
+  </key>
+  <key name="AgentIsOpen">
+    <langtype name="zh-cn">该服务网点未开通，无法使用</langtype>
+    <langtype name="en-us">The Centre is not open, you cannot use the</langtype>
+  </key>
+  <key name="AgentFrozen">
+    <langtype name="zh-cn">该服务网点已被冻结，无法使用</langtype>
+    <langtype name="en-us">The Centre is frozen and cannot be used</langtype>
+  </key>
+  <key name="ReferenceNumberIsnull">
+    <langtype name="zh-cn">推荐人编号不能为空</langtype>
+    <langtype name="en-us">Reference number cannot be blank</langtype>
+  </key>
+  <key name="featuredNotExist">
+    <langtype name="zh-cn">该推荐会员不存在</langtype>
+    <langtype name="en-us">The featured member does not exist</langtype>
+  </key>
+    <key name="invitecodeNotExist">
+    <langtype name="zh-cn">无效的邀请码</langtype>
+    <langtype name="en-us">Invalid invitation code</langtype>
+  </key>
+  <key name="MemberISNull">
+    <langtype name="zh-cn">该会员尚未开通，不能作为推荐会员</langtype>
+    <langtype name="en-us">The Member has not yet opened, cannot be a featured Member</langtype>
+  </key>
+  <key name="PlacementIsnull">
+    <langtype name="zh-cn">安置会员编号不能为空</langtype>
+    <langtype name="en-us">Placement ID cannot be empty</langtype>
+  </key>
+  <key name="PlacementIsexist">
+    <langtype name="zh-cn">该安置会员不存在</langtype>
+    <langtype name="en-us">The settlement member does not exist</langtype>
+  </key>
+  <key name="PlacementIsopen">
+    <langtype name="zh-cn">该安置会员未开通</langtype>
+    <langtype name="en-us">The placement of members is not available in</langtype>
+  </key>
+  <key name="PlacementClose">
+    <langtype name="zh-cn">该会员级别已关闭</langtype>
+    <langtype name="en-us">The membership level is closed</langtype>
+  </key>
+  <key name="PleaseArea">
+    <langtype name="zh-cn">请选择注册区域</langtype>
+    <langtype name="en-us">Please select the registration area</langtype>
+  </key>
+  <key name="RecommendFirst">
+    <langtype name="zh-cn">推荐会员推荐的第一人必须放在最左区!</langtype>
+    <langtype name="en-us">The User that recommender must be put last left area</langtype>
+  </key>
+  <key name="hasMember">
+    <langtype name="zh-cn">该区域已有会员</langtype>
+    <langtype name="en-us">The region has been a Member</langtype>
+  </key>
+  <key name="leftIsnull">
+    <langtype name="zh-cn">该接点会员左区未有人，不能注册右区!</langtype>
+    <langtype name="en-us">Member left with the contact area is not, cannot be registered right here!</langtype>
+  </key>
+  <key name="SerialNumber">
+    <langtype name="zh-cn">序号</langtype>
+    <langtype name="en-us">Serial number</langtype>
+  </key>
+  <key name="Title">
+    <langtype name="zh-cn">标题</langtype>
+    <langtype name="en-us">Title</langtype>
+  </key>
+  <key name="TitleIsNull">
+    <langtype name="zh-cn">标题不能为空!</langtype>
+    <langtype name="en-us">Title cannot be empty!</langtype>
+  </key>
+  <key name="ContentIsNull">
+    <langtype name="zh-cn">内容不能为空!</langtype>
+    <langtype name="en-us">Content cannot be empty!</langtype>
+  </key>
+  <key name="SentSuccessfully">
+    <langtype name="zh-cn">发送成功!</langtype>
+    <langtype name="en-us">Sent successfully!</langtype>
+  </key>
+  <key name="SendFailed">
+    <langtype name="zh-cn">发送失败!</langtype>
+    <langtype name="en-us">Sent successfully!</langtype>
+  </key>
+  <key name="NoLuck">
+    <langtype name="zh-cn">没有查看权限!</langtype>
+    <langtype name="en-us">No view permission!</langtype>
+  </key>
+  <key name="NoSuchUser">
+    <langtype name="zh-cn">没有这个用户!</langtype>
+    <langtype name="en-us">No such user!</langtype>
+  </key>
+  <key name="WantUserIsNull">
+    <langtype name="zh-cn">您要查询的会员编号不存在!</langtype>
+    <langtype name="en-us">You want to query a member number does not exist!</langtype>
+  </key>
+  <key name="WantUserIsdownline">
+    <langtype name="zh-cn">您要查询的会员编号不在您的下线!</langtype>
+    <langtype name="en-us">You want to query the membership number is not in your downline!</langtype>
+  </key>
+  <key name="Isdelect">
+    <langtype name="zh-cn">该会员不存在或已删除,无法再进行此操作!</langtype>
+    <langtype name="en-us">The Member does not exist or has been deleted, you can no longer do this!</langtype>
+  </key>
+  <key name="IsHours">
+    <langtype name="zh-cn">该会员注册已超过24小时,无法再进行此操作!</langtype>
+    <langtype name="en-us">The register has been more than 24 hours, and can no longer do this!</langtype>
+  </key>
+  <key name="isNullUserIsdel">
+    <langtype name="zh-cn">该会员下有子会员不能删除!</langtype>
+    <langtype name="en-us">Child members under that Member cannot be deleted!</langtype>
+  </key>
+  <key name="DeletedSuccessfully">
+    <langtype name="zh-cn">删除成功!</langtype>
+    <langtype name="en-us">Deleted successfully!</langtype>
+  </key>
+  <key name="DeleteFailed">
+    <langtype name="zh-cn">删除失败!</langtype>
+    <langtype name="en-us">Delete failed!</langtype>
+  </key>
+  <key name="IsnullTable">
+    <langtype name="zh-cn">不能导出空表格!</langtype>
+    <langtype name="en-us">You cannot export empty tables!</langtype>
+  </key>
+  <key name="IncorrectOperation">
+    <langtype name="zh-cn">错误的操作!</langtype>
+    <langtype name="en-us">Incorrect operation!</langtype>
+  </key>
+  <key name="SelectType">
+    <langtype name="zh-cn">请选转账类型!</langtype>
+    <langtype name="en-us">Select transfer type!</langtype>
+  </key>
+  <key name="TransferTypeErrors">
+    <langtype name="zh-cn">转账类型错误!</langtype>
+    <langtype name="en-us">Transfer type errors!</langtype>
+  </key>
+  <key name="transferAmountErrors">
+    <langtype name="zh-cn">转账金额格式错误!</langtype>
+    <langtype name="en-us">The transfer amount format error!</langtype>
+  </key>
+  <key name="equalTo">
+    <langtype name="zh-cn">转账金额必须大于等于</langtype>
+    <langtype name="en-us">The transfer amount must be greater than or equal to</langtype>
+  </key>
+  <key name="TheInteger">
+    <langtype name="zh-cn">的整数倍!</langtype>
+    <langtype name="en-us">The integer!</langtype>
+  </key>
+  <key name="amountMustbe">
+    <langtype name="zh-cn">转账金额必须是</langtype>
+    <langtype name="en-us">The transfer amount must be</langtype>
+  </key>
+  <key name="Multiples">
+    <langtype name="zh-cn">的倍数!</langtype>
+    <langtype name="en-us">Multiples!</langtype>
+  </key>
+  <key name="transferMoneyIsnull">
+    <langtype name="zh-cn">转账金额不能为空!</langtype>
+    <langtype name="en-us">The transfer amount cannot be empty!</langtype>
+  </key>
+  <key name="balanceDollars">
+    <langtype name="zh-cn">投资积分余额不足!</langtype>
+    <langtype name="en-us">Lack of bonus-currency balance!</langtype>
+  </key>
+  <key name="E-moneyDollars">
+    <langtype name="zh-cn">原始币余额不足!</langtype>
+    <langtype name="en-us">Auction-currency balance less than!</langtype>
+  </key>
+  <key name="numberIsExist">
+    <langtype name="zh-cn">会员编号不存在!</langtype>
+    <langtype name="en-us">Account number does not exist!</langtype>
+  </key>
+  <key name="TransferToOuner">
+    <langtype name="zh-cn">不能给自己转账!</langtype>
+    <langtype name="en-us">Can't transfer to oneself!</langtype>
+  </key>
+  <key name="TransferQuery">
+    <langtype name="zh-cn">转账查询</langtype>
+    <langtype name="en-us">Transfer inquiry</langtype>
+  </key>
+  <key name="answerErrors">
+    <langtype name="zh-cn">密保答案错误!</langtype>
+    <langtype name="en-us">Secret security answer errors!</langtype>
+  </key>
+  <key name="objectExist">
+    <langtype name="zh-cn">转帐对象不存在!</langtype>
+    <langtype name="en-us">Transfer object does not exist!</langtype>
+  </key>
+  <key name="addError">
+    <langtype name="zh-cn">添加流水账错误!</langtype>
+    <langtype name="en-us">Add a running account error!</langtype>
+  </key>
+  <key name="TransferSuccess">
+    <langtype name="zh-cn">转账成功!</langtype>
+    <langtype name="en-us">Transfer success!</langtype>
+  </key>
+  <key name="IOperation">
+    <langtype name="zh-cn">非法操作!</langtype>
+    <langtype name="en-us">Illegal operation!</langtype>
+  </key>
+  <key name="ParameterError">
+    <langtype name="zh-cn">参数出错!</langtype>
+    <langtype name="en-us">Parameter error!</langtype>
+  </key>
+  <key name="ChooseProducts">
+    <langtype name="zh-cn">请选择产品!</langtype>
+    <langtype name="en-us">Choose products!</langtype>
+  </key>
+  <key name="ProductQuantity">
+    <langtype name="zh-cn">请输入产品数量!</langtype>
+    <langtype name="en-us">Please enter the product quantity!</langtype>
+  </key>
+  <key name="BtoEIsOpen">
+    <langtype name="zh-cn">奖金币转E币功能未开放!</langtype>
+    <langtype name="en-us">Bonus-currency transfer auction-currency is not the open!</langtype>
+  </key>
+  <key name="EtoMIsOpen">
+    <langtype name="zh-cn">E币转其他会员功能未开放!</langtype>
+    <langtype name="en-us">Auction-currency to the other members is not open!</langtype>
+  </key>
+  <key name="BtoMIsOpen">
+    <langtype name="zh-cn">奖金币转其他会员功能未开放!</langtype>
+    <langtype name="en-us">Bonus-currency transfer other member function is not open !</langtype>
+  </key>
+  <key name="PleaseSBank">
+    <langtype name="zh-cn">请选择汇款银行!</langtype>
+    <langtype name="en-us">Please select the remittance bank!</langtype>
+  </key>
+  <key name="RemittanceIsnull">
+    <langtype name="zh-cn">汇款金额不能为空!</langtype>
+    <langtype name="en-us">Remittance amount cannot be empty!</langtype>
+  </key>
+  <key name="integer">
+    <langtype name="zh-cn">汇款金额格式为整数!</langtype>
+    <langtype name="en-us">Remittance amount is formatted as an integer!</langtype>
+  </key>
+  <key name="greater">
+    <langtype name="zh-cn">汇款金额必须大于100!</langtype>
+    <langtype name="en-us">Remittance amount must be greater than 100!</langtype>
+  </key>
+  <key name="timeEmpty">
+    <langtype name="zh-cn">汇款具体时间不能为空!</langtype>
+    <langtype name="en-us">Remittance time cannot be empty!</langtype>
+  </key>
+  <key name="pleaseRe-enter">
+    <langtype name="zh-cn">汇款时间填写有误，请重新填写!</langtype>
+    <langtype name="en-us">Remittances to fill out the error, please re-enter!</langtype>
+  </key>
+  <key name="banksEmpty">
+    <langtype name="zh-cn">汇出银行不能为空!</langtype>
+    <langtype name="en-us">Funds out of banks cannot be empty!</langtype>
+  </key>
+  <key name="accountEmpty">
+    <langtype name="zh-cn">汇出账户不能为空!</langtype>
+    <langtype name="en-us">Remittance account cannot be empty!</langtype>
+  </key>
+  <key name="greaterThan">
+    <langtype name="zh-cn">汇出帐户格式错误，账号长度要大于10!</langtype>
+    <langtype name="en-us">Remittance account format error number length is greater than 10!</langtype>
+  </key>
+  <key name="selectRecharge">
+    <langtype name="zh-cn">请选择充值方式!</langtype>
+    <langtype name="en-us">Please select how to recharge!</langtype>
+  </key>
+  <key name="timeError">
+    <langtype name="zh-cn">时间格式错误!</langtype>
+    <langtype name="en-us">Time format error!</langtype>
+  </key>
+  <key name="Successful">
+    <langtype name="zh-cn">操作成功!</langtype>
+    <langtype name="en-us">Successful operation</langtype>
+  </key>
+  <key name="OperationFailed">
+    <langtype name="zh-cn">操作失败!</langtype>
+    <langtype name="en-us">Operation failed!</langtype>
+  </key>
+  <key name="application">
+    <langtype name="zh-cn">申请汇款成功!</langtype>
+    <langtype name="en-us">Successful application for remittance!</langtype>
+  </key>
+  <key name="Exceptions">
+    <langtype name="zh-cn">在线充值出现异常!</langtype>
+    <langtype name="en-us">Exceptions occur online recharge!</langtype>
+  </key>
+  <key name="highestLevel">
+    <langtype name="zh-cn">您当前已是最高级别!</langtype>
+    <langtype name="en-us">Your currently have is the highest level!</langtype>
+  </key>
+  <key name="Pleasepromotions">
+    <langtype name="zh-cn">请选择晋升级别!</langtype>
+    <langtype name="en-us">Please select the level of promotions!</langtype>
+  </key>
+  <key name="membershipClosed">
+    <langtype name="zh-cn">该会员级别已关闭!</langtype>
+    <langtype name="en-us">The membership level is off!</langtype>
+  </key>
+  <key name="promoted">
+    <langtype name="zh-cn">E币不足，无法晋升!</langtype>
+    <langtype name="en-us">Auction-currency shortage cannot be promoted!</langtype>
+  </key>
+  <key name="audit">
+    <langtype name="zh-cn">您已提交申请，请等待审核!</langtype>
+    <langtype name="en-us">Your have submitted the application, wait for the audit !</langtype>
+  </key>
+  <key name="Submission">
+    <langtype name="zh-cn">提交申请成功!</langtype>
+    <langtype name="en-us">Submission successful !</langtype>
+  </key>
+  <key name="checkPage">
+    <langtype name="zh-cn">操作失败!请检查页面!</langtype>
+    <langtype name="en-us">Operation failed! Please check page !</langtype>
+  </key>
+  <key name="pleaseWait">
+    <langtype name="zh-cn">您的申请已提交，请耐心等待!</langtype>
+    <langtype name="en-us">Your application has been submitted, please wait !</langtype>
+  </key>
+  <key name="adviceCentres">
+    <langtype name="zh-cn">抱歉，您不是钻卡会员，不能申请报单中心!</langtype>
+    <langtype name="en-us">I'm sorry, you are not a diamond card members, cannot apply for advice centres!</langtype>
+  </key>
+  <key name="Unsuccessful">
+    <langtype name="zh-cn">申请失败!</langtype>
+    <langtype name="en-us">Unsuccessful applicants!</langtype>
+  </key>
+  <key name="Applications">
+    <langtype name="zh-cn">申请信息</langtype>
+    <langtype name="en-us">Applications</langtype>
+  </key>
+  <key name="Success">
+    <langtype name="zh-cn">成功!</langtype>
+    <langtype name="en-us">Success</langtype>
+  </key>
+  <key name="oldPassEmpty">
+    <langtype name="zh-cn">旧登录密码不能为空!</langtype>
+    <langtype name="en-us">Old password cannot be empty</langtype>
+  </key>
+  <key name="oldPassCorrect">
+    <langtype name="zh-cn">旧登录密码不正确!</langtype>
+    <langtype name="en-us">Old password is not correct</langtype>
+  </key>
+  <key name="NewPassEmpty">
+    <langtype name="zh-cn">新登录密码不能为空!</langtype>
+    <langtype name="en-us">New password can not be empty</langtype>
+  </key>
+  <key name="TwoPassIncorrect">
+    <langtype name="zh-cn">两次输入的密码不正确!</langtype>
+    <langtype name="en-us">Twice the password entered is incorrect</langtype>
+  </key>
+  <key name="PasswordChanged">
+    <langtype name="zh-cn">登录密码修改成功!</langtype>
+    <langtype name="en-us">Password successfully changed</langtype>
+  </key>
+  <key name="Passwordfailed">
+    <langtype name="zh-cn">登录密码修改失败!</langtype>
+    <langtype name="en-us">Logon to password change failed</langtype>
+  </key>
+  <key name="OldTwoPassEmpty">
+    <langtype name="zh-cn">旧支付密码不能为空!</langtype>
+    <langtype name="en-us">Old password cannot be empty</langtype>
+  </key>
+  <key name="oldTwoPassCorrect">
+    <langtype name="zh-cn">旧支付密码不正确!</langtype>
+    <langtype name="en-us">Old password is not correct</langtype>
+  </key>
+  <key name="NewTwoPassEmpty">
+    <langtype name="zh-cn">新支付密码不能为空!</langtype>
+    <langtype name="en-us">New secondary password cannot be empty</langtype>
+  </key>
+  <key name="TwoPasswordChanged">
+    <langtype name="zh-cn">支付密码修改成功!</langtype>
+    <langtype name="en-us">Two-level password change successful</langtype>
+  </key>
+  <key name="TwoPasswordfailed">
+    <langtype name="zh-cn">支付密码修改失败!</langtype>
+    <langtype name="en-us">Two-level password change failed</langtype>
+  </key>
+  <key name="OldthreePassEmpty">
+    <langtype name="zh-cn">旧三级密码不能为空!</langtype>
+    <langtype name="en-us">Old three-level password cannot be empty</langtype>
+  </key>
+  <key name="oldthreePassCorrect">
+    <langtype name="zh-cn">旧三级密码不正确!</langtype>
+    <langtype name="en-us">Old three-level password is incorrect</langtype>
+  </key>
+  <key name="NewthreePassEmpty">
+    <langtype name="zh-cn">新三级密码不能为空!</langtype>
+    <langtype name="en-us">New three-level password cannot be empty</langtype>
+  </key>
+  <key name="threePasswordChanged">
+    <langtype name="zh-cn">三级密码修改成功!</langtype>
+    <langtype name="en-us">Three levels of password change successful</langtype>
+  </key>
+  <key name="threePasswordfailed">
+    <langtype name="zh-cn">三级密码修改失败!</langtype>
+    <langtype name="en-us">Three levels of password modification fails</langtype>
+  </key>
+  <key name="UpdateSuccessful">
+    <langtype name="zh-cn">更新成功!</langtype>
+    <langtype name="en-us">Update successful</langtype>
+  </key>
+  <key name="UpdateFailed">
+    <langtype name="zh-cn">更新失败!</langtype>
+    <langtype name="en-us">Update failed</langtype>
+  </key>
+  <key name="AmountNoEmpty">
+    <langtype name="zh-cn">卖出金额不能为空!</langtype>
+    <langtype name="en-us">The amount sold cannot be empty!</langtype>
+  </key>
+  <key name="SellAmount">
+    <langtype name="zh-cn">卖出金额</langtype>
+    <langtype name="en-us">Sell amount</langtype>
+  </key>
+  <key name="SurplusQuantity">
+    <langtype name="zh-cn">剩余数量</langtype>
+    <langtype name="en-us">Surplus quantity</langtype>
+  </key>
+  <key name="SplitNumber">
+    <langtype name="zh-cn">拆分次数</langtype>
+    <langtype name="en-us">Split number</langtype>
+  </key>
+  <key name="PurchaseAmount">
+    <langtype name="zh-cn">求购金额不能为空!</langtype>
+    <langtype name="en-us">Purchase amount cannot be empty!</langtype>
+  </key>
+  <key name="PriceEmpty">
+    <langtype name="zh-cn">价格不能为空!</langtype>
+    <langtype name="en-us">The price can not be empty!</langtype>
+  </key>
+  <key name="PriceFormat">
+    <langtype name="zh-cn">价格格式错误!</langtype>
+    <langtype name="en-us">Price format error!</langtype>
+  </key>
+  <key name="LowestPrice">
+    <langtype name="zh-cn">最低价格</langtype>
+    <langtype name="en-us">The lowest price!</langtype>
+  </key>
+  <key name="HighestPrice">
+    <langtype name="zh-cn">最高价格</langtype>
+    <langtype name="en-us">The highest price!</langtype>
+  </key>
+  <key name="PriceBetween">
+    <langtype name="zh-cn">商品价格必须介于最低价和最高价之间</langtype>
+    <langtype name="en-us">Commodity price must be between the lowest and highest between!</langtype>
+  </key>
+  <key name="WithdrawalIsnull">
+    <langtype name="zh-cn">提现金额不能为空!</langtype>
+    <langtype name="en-us">Withdrawal amount cannot be empty!</langtype>
+  </key>
+  <key name="AmountThan">
+    <langtype name="zh-cn">提现金额必须大于等于</langtype>
+    <langtype name="en-us">Amount must be greater than or equal to</langtype>
+  </key>
+  <key name="AmountLess">
+    <langtype name="zh-cn">提现金额必须小于等于</langtype>
+    <langtype name="en-us">Amount must be greater than or equal to</langtype>
+  </key>
+  <key name="amountMust">
+    <langtype name="zh-cn">提现金额必须是</langtype>
+    <langtype name="en-us">Withdrawal amount must be</langtype>
+  </key>
+  <key name="AmountErrors">
+    <langtype name="zh-cn">金额格式输入错误!</langtype>
+    <langtype name="en-us">Amount format entry errors!</langtype>
+  </key>
+  <key name="AmountBalance">
+    <langtype name="zh-cn">提现金额不能大于奖金余额!</langtype>
+    <langtype name="en-us">Withdrawal amount cannot be greater than the cash balance of the Bonus-currency!</langtype>
+  </key>
+  <key name="PleaseExchange">
+    <langtype name="zh-cn">请到流通币交易大厅交易!</langtype>
+    <langtype name="en-us">Please go to the trading floor of the currency exchange!</langtype>
+  </key>
+  <key name="successful">
+    <langtype name="zh-cn">申请提现成功!</langtype>
+    <langtype name="en-us">Applications are successful!</langtype>
+  </key>
+  <key name="recordDeleted">
+    <langtype name="zh-cn">该记录已删除，无法再进行此操作!</langtype>
+    <langtype name="en-us">The record has been deleted, you can no longer do this!</langtype>
+  </key>
+  <key name="RecordNotExist">
+    <langtype name="zh-cn">该记录不存在!</langtype>
+    <langtype name="en-us">The record does not exist!</langtype>
+  </key>
+  <key name="GoldUnable">
+    <langtype name="zh-cn">金币已卖出，无法再进行此操作</langtype>
+    <langtype name="en-us">Gold has sold, unable to do this!</langtype>
+  </key>
+  <key name="recordApproved">
+    <langtype name="zh-cn">该记录已审核，无法再进行此操作!</langtype>
+    <langtype name="en-us">The record has been approved, you can no longer do this!</langtype>
+  </key>
+  <key name="CancellationSuccess">
+    <langtype name="zh-cn">取消成功!</langtype>
+    <langtype name="en-us">Cancellation success!</langtype>
+  </key>
+  <key name="FailedToCancel">
+    <langtype name="zh-cn">取消失败!</langtype>
+    <langtype name="en-us">Failed to cancel!</langtype>
+  </key>
+  <key name="MemberDelete">
+    <langtype name="zh-cn">该会员已删除,无法再进行此操作!</langtype>
+    <langtype name="en-us">The Member has been deleted, you can no longer do this!</langtype>
+  </key>
+  <key name="MemberActivated">
+    <langtype name="zh-cn">该会员已激活,无法再进行此操作!</langtype>
+    <langtype name="en-us">The membership has been activated, you can no longer do this!</langtype>
+  </key>
+  <key name="OpenSuccess">
+    <langtype name="zh-cn">开通成功!</langtype>
+    <langtype name="en-us">Open success!</langtype>
+  </key>
+  <key name="FailedToOpen">
+    <langtype name="zh-cn">开通失败!</langtype>
+    <langtype name="en-us">Failed to open!</langtype>
+  </key>
+  <key name="PasswordError">
+    <langtype name="zh-cn">密码输入错误!</langtype>
+    <langtype name="en-us">Password error!</langtype>
+  </key>
+  <key name="UserName">
+    <langtype name="zh-cn">用户名</langtype>
+    <langtype name="en-us">UserName</langtype>
+  </key>
+  <key name="ShopPassword">
+    <langtype name="zh-cn">登录密码</langtype>
+    <langtype name="en-us">Password</langtype>
+  </key>
+  <key name="MyRegister">
+    <langtype name="zh-cn">我要注册</langtype>
+    <langtype name="en-us">Register</langtype>
+  </key>
+  <key name="Login">
+    <langtype name="zh-cn">登录</langtype>
+    <langtype name="en-us">Login</langtype>
+  </key>
+  <key name="ShortLinksImg">
+    <langtype name="zh-cn">links</langtype>
+    <langtype name="en-us">links_en</langtype>
+  </key>
+  <key name="shopindextitle">
+    <langtype name="zh-cn">商城首页</langtype>
+    <langtype name="en-us">Shopping Mall Home</langtype>
+  </key>
+  <key name="man">
+    <langtype name="zh-cn">男士</langtype>
+    <langtype name="en-us">Man</langtype>
+  </key>
+  <key name="women">
+    <langtype name="zh-cn">女士</langtype>
+    <langtype name="en-us">Women</langtype>
+  </key>
+  <key name="EastLuxury">
+    <langtype name="zh-cn">东方奢侈品</langtype>
+    <langtype name="en-us">East Luxury</langtype>
+  </key>
+  <key name="AuctionArea">
+    <langtype name="zh-cn">竞拍区</langtype>
+    <langtype name="en-us">Auction Area</langtype>
+  </key>
+  <key name="IntegrationRedemption">
+    <langtype name="zh-cn">积分换购</langtype>
+    <langtype name="en-us">Integration Redemption</langtype>
+  </key>
+  <key name="Pants">
+    <langtype name="zh-cn">裤子</langtype>
+    <langtype name="en-us">Pants</langtype>
+  </key>
+  <key name="Briefs">
+    <langtype name="zh-cn">内裤</langtype>
+    <langtype name="en-us">Briefs</langtype>
+  </key>
+  <key name="Skirt">
+    <langtype name="zh-cn">裙子</langtype>
+    <langtype name="en-us">Skirt</langtype>
+  </key>
+  <key name="BlueAndWhitePorcelain">
+    <langtype name="zh-cn">青花瓷</langtype>
+    <langtype name="en-us">Blue And White Porcelain</langtype>
+  </key>
+  <key name="ThermosJug">
+    <langtype name="zh-cn">热水壶</langtype>
+    <langtype name="en-us">Thermos Jug</langtype>
+  </key>
+  <key name="Refrigerator">
+    <langtype name="zh-cn">电冰箱</langtype>
+    <langtype name="en-us">Refrigerator</langtype>
+  </key>
+  <key name="AboutUs">
+    <langtype name="zh-cn">公司简介</langtype>
+    <langtype name="en-us">About Us</langtype>
+  </key>
+  <key name="BuyNavigation">
+    <langtype name="zh-cn">购买导航</langtype>
+    <langtype name="en-us">Buy Navigation</langtype>
+  </key>
+  <key name="BusinessUnion">
+    <langtype name="zh-cn">商家联盟</langtype>
+    <langtype name="en-us">Business Union</langtype>
+  </key>
+  <key name="OfficialSite">
+    <langtype name="zh-cn">官方网站</langtype>
+    <langtype name="en-us">Official Site</langtype>
+  </key>
+  <key name="LatestActivity">
+    <langtype name="zh-cn">最新活动</langtype>
+    <langtype name="en-us">Latest Activity</langtype>
+  </key>
+  <key name="ContactUs">
+    <langtype name="zh-cn">联系我们</langtype>
+    <langtype name="en-us">Contact Us</langtype>
+  </key>
+  <key name="LinksImg">
+    <langtype name="zh-cn">link-ul</langtype>
+    <langtype name="en-us">link-ul-en</langtype>
+  </key>
+  <key name="ProductCategory">
+    <langtype name="zh-cn">商品分类</langtype>
+    <langtype name="en-us">Product Category</langtype>
+  </key>
+  <key name="ProductDetailTitle">
+    <langtype name="zh-cn">商品详情</langtype>
+    <langtype name="en-us">Product Detail</langtype>
+  </key>
+  <key name="ProductDetailInvalidOperation">
+    <langtype name="zh-cn">无效的操作</langtype>
+    <langtype name="en-us">Invalid Operation</langtype>
+  </key>
+  <key name="HasSold">
+    <langtype name="zh-cn">已销售</langtype>
+    <langtype name="en-us">Has Sold</langtype>
+  </key>
+  <key name="Inventory">
+    <langtype name="zh-cn">库存</langtype>
+    <langtype name="en-us">Inventory</langtype>
+  </key>
+  <key name="MarketPrice">
+    <langtype name="zh-cn">市场价</langtype>
+    <langtype name="en-us">Market Price</langtype>
+  </key>
+  <key name="MemberPrice">
+    <langtype name="zh-cn">会员价</langtype>
+    <langtype name="en-us">Member Price</langtype>
+  </key>
+  <key name="TotalAmount">
+    <langtype name="zh-cn">总价</langtype>
+    <langtype name="en-us">Total Money</langtype>
+  </key>
+  <key name="ProductDetails">
+    <langtype name="zh-cn">商品详细信息</langtype>
+    <langtype name="en-us">Product Details</langtype>
+  </key>
+  <key name="Image">
+    <langtype name="zh-cn">图片</langtype>
+    <langtype name="en-us">Image</langtype>
+  </key>
+  <key name="Price">
+    <langtype name="zh-cn">单价</langtype>
+    <langtype name="en-us">Price</langtype>
+  </key>
+  <key name="Score">
+    <langtype name="zh-cn">积分</langtype>
+    <langtype name="en-us">Score</langtype>
+  </key>
+  <key name="Number">
+    <langtype name="zh-cn">数量</langtype>
+    <langtype name="en-us">Number</langtype>
+  </key>
+  <key name="TotalScore">
+    <langtype name="zh-cn">总积分</langtype>
+    <langtype name="en-us">TotalScore</langtype>
+  </key>
+  <key name="OrderMoney">
+    <langtype name="zh-cn">订货总金额</langtype>
+    <langtype name="en-us">Total Money Of Orders</langtype>
+  </key>
+  <key name="OrderScores">
+    <langtype name="zh-cn">订货总积分</langtype>
+    <langtype name="en-us">Scores Of Orders</langtype>
+  </key>
+  <key name="PaymentMethod">
+    <langtype name="zh-cn">支付方式</langtype>
+    <langtype name="en-us">Payment Method</langtype>
+  </key>
+  <key name="AliPay">
+    <langtype name="zh-cn">支付宝账号</langtype>
+    <langtype name="en-us">AliPay</langtype>
+  </key>
+  <key name="EmoneyPay">
+    <langtype name="zh-cn">E币支付</langtype>
+    <langtype name="en-us">Auction-currency Pay</langtype>
+  </key>
+  <key name="ScorePay">
+    <langtype name="zh-cn">积分支付</langtype>
+    <langtype name="en-us">Score Pay</langtype>
+  </key>
+  <key name="OnlinePay">
+    <langtype name="zh-cn">在线支付</langtype>
+    <langtype name="en-us">Oneline Pay</langtype>
+  </key>
+  <key name="OtherPay">
+    <langtype name="zh-cn">E币或在线支付</langtype>
+    <langtype name="en-us">Emoney Or Oneline Pay</langtype>
+  </key>
+  <key name="ChannelTitle">
+    <langtype name="zh-cn">商城网站</langtype>
+    <langtype name="en-us">Shop WebSite</langtype>
+  </key>
+  <key name="ProductShow">
+    <langtype name="zh-cn">商品展示</langtype>
+    <langtype name="en-us">Product Show</langtype>
+  </key>
+  <key name="PrevPage">
+    <langtype name="zh-cn">上一页</langtype>
+    <langtype name="en-us">Prev Page</langtype>
+  </key>
+  <key name="NextPage">
+    <langtype name="zh-cn">下一页</langtype>
+    <langtype name="en-us">Next Page</langtype>
+  </key>
+  <key name="LastPage">
+    <langtype name="zh-cn">尾页</langtype>
+    <langtype name="en-us">Last Page</langtype>
+  </key>
+  <key name="Payment">
+    <langtype name="zh-cn">确认付款</langtype>
+    <langtype name="en-us">Payment confirmation</langtype>
+  </key>
+  <key name="ConfirmPayment">
+    <langtype name="zh-cn">确认已付款</langtype>
+    <langtype name="en-us">Confirm payment</langtype>
+  </key>
+  <key name="ConfirmReceipt">
+    <langtype name="zh-cn">确认收货</langtype>
+    <langtype name="en-us">Confirm receipt</langtype>
+  </key>
+  <key name="NotReceive">
+    <langtype name="zh-cn">未收到货</langtype>
+    <langtype name="en-us">Do not receive the goods</langtype>
+  </key>
+  <key name="NotCurrent">
+    <langtype name="zh-cn">现金积分余额不足</langtype>
+    <langtype name="en-us">Current account balance is insufficient</langtype>
+  </key>
+  <key name="NotRegistered">
+    <langtype name="zh-cn">原始币账户余额不足</langtype>
+    <langtype name="en-us">Registered currency account balance</langtype>
+  </key>
+  <key name="NotBalance">
+    <langtype name="zh-cn">积分账户余额不足</langtype>
+    <langtype name="en-us">Lack of Insufficient points account balance</langtype>
+  </key>
+  <key name="NotCurrency">
+    <langtype name="zh-cn">释放币余额不足</langtype>
+    <langtype name="en-us">Lack of auction-currency account balance</langtype>
+  </key>
+  <key name="CashReceipt">
+    <langtype name="zh-cn">收货成功</langtype>
+    <langtype name="en-us">Cash receipt</langtype>
+  </key>
+  <key name="FailedReceive">
+    <langtype name="zh-cn">收货失败</langtype>
+    <langtype name="en-us">Failed to receive</langtype>
+  </key>
+  <key name="NotSuccessfully">
+    <langtype name="zh-cn">未收货成功</langtype>
+    <langtype name="en-us">Not received successfully</langtype>
+  </key>
+  <key name="NoReceiptFail">
+    <langtype name="zh-cn">未收货失败</langtype>
+    <langtype name="en-us">No receipt fail</langtype>
+  </key>
+  <key name="OrderSuccessfully">
+    <langtype name="zh-cn">订单删除成功</langtype>
+    <langtype name="en-us">Order deleted successfully</langtype>
+  </key>
+  <key name="OrderFailed">
+    <langtype name="zh-cn">订单删除成功</langtype>
+    <langtype name="en-us">Order delete failed</langtype>
+  </key>
+  <key name="LoginLable">
+    <langtype name="zh-cn">zh-cn</langtype>
+    <langtype name="en-us">en-us</langtype>
+  </key>
+  <key name="AwardName">
+    <langtype name="zh-cn">奖项名称</langtype>
+    <langtype name="en-us">Award name</langtype>
+  </key>
+  <key name="money">
+    <langtype name="zh-cn">金额</langtype>
+    <langtype name="en-us">Amount of money</langtype>
+  </key>
+  <key name="BonusAmount">
+    <langtype name="zh-cn">奖金金额</langtype>
+    <langtype name="en-us">Bonus amount</langtype>
+  </key>
+  <key name="BonusScore">
+    <langtype name="zh-en">奖金积分</langtype>
+    <langtype name="en-us">Bonus score</langtype>
+  </key>
+  <key name="TotalBonus">
+    <langtype name="zh-cn">总奖金</langtype>
+    <langtype name="en-us">Total bonus</langtype>
+  </key>
+  <key name="CirculatingGold">
+    <langtype name="zh-cn">流通币</langtype>
+    <langtype name="en-us">Circulating gold</langtype>
+  </key>
+  <key name="MDDDrill">
+    <langtype name="zh-cn">MDD钻币</langtype>
+    <langtype name="en-us">MDD drill</langtype>
+  </key>
+  <key name="Platform">
+    <langtype name="zh-cn">平台费用</langtype>
+    <langtype name="en-us">Platform cost</langtype>
+  </key>
+  <key name="Shoppingcurrency">
+    <langtype name="zh-cn">购物币</langtype>
+    <langtype name="en-us">Shopping currency</langtype>
+  </key>
+  <key name="Registeredcurrency">
+    <langtype name="zh-cn">释放币(AEC)</langtype>
+    <langtype name="en-us">Registered currency</langtype>
+  </key>
+  <key name="Details">
+    <langtype name="zh-cn">详情</langtype>
+    <langtype name="en-us">Details</langtype>
+  </key>
+  <key name="PleaseSselect">
+    <langtype name="zh-cn">请选择</langtype>
+    <langtype name="en-us">Please select</langtype>
+  </key>
+  <key name="YourNameIs">
+    <langtype name="zh-cn">您的姓名是？</langtype>
+    <langtype name="en-us">Your name is?</langtype>
+  </key>
+  <key name="YourHome">
+    <langtype name="zh-cn">您的家乡是？</langtype>
+    <langtype name="en-us">Your home is?</langtype>
+  </key>
+  <key name="YourPeople">
+    <langtype name="zh-cn">您最敬佩的人是？</langtype>
+    <langtype name="en-us">People you admire are?</langtype>
+  </key>
+  <key name="NumberError">
+    <langtype name="zh-cn">数量格式错误</langtype>
+    <langtype name="en-us">Number format error</langtype>
+  </key>
+  <key name="NumberThanZero">
+    <langtype name="zh-cn">数量必须大于零!</langtype>
+    <langtype name="en-us">The number must be greater than zero!</langtype>
+  </key>
+  <key name="InventoryProblem">
+    <langtype name="zh-cn">库存不足!</langtype>
+    <langtype name="en-us">Inventory problem!</langtype>
+  </key>
+  <key name="OnlyIntegers">
+    <langtype name="zh-cn">只能输入整数!</langtype>
+    <langtype name="en-us">Enter only integers!</langtype>
+  </key>
+  <key name="FirstPage">
+    <langtype name="zh-cn">首页</langtype>
+    <langtype name="en-us">First Page</langtype>
+  </key>
+  <key name="Yuan">
+    <langtype name="zh-cn">元</langtype>
+    <langtype name="en-us">￥</langtype>
+  </key>
+  <key name="OrderToFailed">
+    <langtype name="zh-cn">添加订单失败</langtype>
+    <langtype name="en-us">Failed to add an order</langtype>
+  </key>
+  <key name="AddFailed">
+    <langtype name="zh-cn">添加失败</langtype>
+    <langtype name="en-us">Add failed</langtype>
+  </key>
+  <key name="EcurrencyBalance">
+    <langtype name="zh-cn">E币账户余额不足</langtype>
+    <langtype name="en-us">Lack of e-currency account balance</langtype>
+  </key>
+  <key name="pointsBalance">
+    <langtype name="zh-cn">积分账户余额不足</langtype>
+    <langtype name="en-us">Insufficient points account balance</langtype>
+  </key>
+  <key name="PaymentError">
+    <langtype name="zh-cn">支付异常</langtype>
+    <langtype name="en-us">Payment error</langtype>
+  </key>
+  <key name="ShoppingNot">
+    <langtype name="zh-cn">购物车没有商品</langtype>
+    <langtype name="en-us">Shopping cart not merchandise</langtype>
+  </key>
+  <key name="addressNot">
+    <langtype name="zh-cn">您还没有联系地址</langtype>
+    <langtype name="en-us">You don't have a contact address</langtype>
+  </key>
+  <key name="HavePayment">
+    <langtype name="zh-cn">还没有选择支付方式</langtype>
+    <langtype name="en-us">Have not been chosen payment method</langtype>
+  </key>
+  <key name="EmptySuccess">
+    <langtype name="zh-cn">清空成功</langtype>
+    <langtype name="en-us">Empty success</langtype>
+  </key>
+  <key name="minimum">
+    <langtype name="zh-cn">请输入整数，最低购买0！</langtype>
+    <langtype name="en-us">Please enter an integer, the minimum purchase 0!</langtype>
+  </key>
+  <key name="MessageFormat">
+    <langtype name="zh-cn">您的壹加壹竞拍网账号 {username} 于{time}开通成功。</langtype>
+    <langtype name="en-us">One plus one of your auction network account {username} opened successfully at {timeEn}.</langtype>
+  </key>
+  <key name="MessageTakeMoney">
+    <langtype name="zh-cn">账号 {username} 于 {time} 提现申请已受理，请耐心等候！</langtype>
+    <langtype name="en-us">One plus one of your auction network account {username} submit successfully {timeEn}.</langtype>
+  </key>
+  <key name="MessageTakeMoneyOK">
+    <langtype name="zh-cn">账号 {username} 于 {time} 提现申请已处理，请注意查收！</langtype>
+    <langtype name="en-us">One plus one of your auction network account {username} opened successfully {timeEn}.</langtype>
+  </key>
+  <key name="TransferEmoneyTo">
+    <langtype name="zh-cn">您于{time}转{Amount}E币给{username}。</langtype>
+    <langtype name="en-us">You transfer {Amount} emoney to {username} at {timeEn}.</langtype>
+  </key>
+  <key name="TransferMoenyFrom">
+    <langtype name="zh-cn">您于{time}获得 {username} 转来 {Amount} E币。</langtype>
+    <langtype name="en-us">  {username} Transfer {Amount} money to you at {timeEn}.</langtype>
+  </key>
+  <key name="TransferBToE">
+    <langtype name="zh-cn">账号 {username},{money} 奖金转E币 {time}。</langtype>
+    <langtype name="en-us">Account number {username},{money} money transfer e-currency {timeEn}.</langtype>
+  </key>
+  <key name="PutintoTable">
+    <langtype name="zh-cn">账号 {username} 于 {time} 将A盘{money}奖金转到B盘！</langtype>
+    <langtype name="en-us">Account number {username},{money} money transfer B {timeEn}.</langtype>
+  </key>
+  <key name="TransferConfirm">
+    <langtype name="zh-cn">您确定转账吗？</langtype>
+    <langtype name="en-us">Are you sure you transfer money?</langtype>
+  </key>
+  <key name="SubmitOrderSuccessfully">
+    <langtype name="zh-cn">提交订单成功</langtype>
+    <langtype name="en-us">Submit order successfully</langtype>
+  </key>
+  <key name="DearMembers">
+    <langtype name="zh-cn">尊敬的会员您好！</langtype>
+    <langtype name="en-us">Dear members! </langtype>
+  </key>
+  <key name="shangjia">
+    <langtype name="zh-cn">上架</langtype>
+    <langtype name="en-us">On sell</langtype>
+  </key>
+  <key name="xiajia">
+    <langtype name="zh-cn">下架</langtype>
+    <langtype name="en-us">Close</langtype>
+  </key>
+  <key name="yichangjiao">
+    <langtype name="zh-cn">已成交</langtype>
+    <langtype name="en-us">Done</langtype>
+  </key>
+  <key name="yishibai">
+    <langtype name="zh-cn">已失败</langtype>
+    <langtype name="en-us">Fail</langtype>
+  </key>
+  <key name="weizhi">
+    <langtype name="zh-cn">未知</langtype>
+    <langtype name="en-us">Unknown</langtype>
+  </key>
+  <key name="jingpaizhong">
+    <langtype name="zh-cn">正在拍卖</langtype>
+    <langtype name="en-us">Auctioning</langtype>
+  </key>
+  <key name="weikaishi">
+    <langtype name="zh-cn">未开始</langtype>
+    <langtype name="en-us">NotStarted</langtype>
+  </key>
+  <key name="fanli">
+    <langtype name="zh-cn">日分红累计</langtype>
+    <langtype name="en-us">BDateReturn</langtype>
+  </key>
+  <key name="EMoney">
+    <langtype name="zh-cn">奖金币管理</langtype>
+    <langtype name="en-us">BDateReturn</langtype>
+  </key>
+  <key name="EMoney1">
+    <langtype name="zh-cn">奖金币余额</langtype>
+    <langtype name="en-us">BDateReturn</langtype>
+  </key>
+  <key name="NumberRecast">
+    <langtype name="zh-cn">账号复投</langtype>
+    <langtype name="en-us">Number Re cast</langtype>
+  </key>
+  <key name="RecastNumber">
+    <langtype name="zh-cn">复投次数</langtype>
+    <langtype name="en-us">Complex number of times</langtype>
+  </key>
+  <key name="Batch">
+    <langtype name="zh-cn">批次</langtype>
+    <langtype name="en-us">Batch</langtype>
+  </key>
+  <key name="RecastFull">
+    <langtype name="zh-cn">复投次数已满</langtype>
+    <langtype name="en-us">The number of re cast is full</langtype>
+  </key>
+  <key name="AccountNotOut">
+    <langtype name="zh-cn">账号未出局</langtype>
+    <langtype name="en-us">Account number is not out</langtype>
+  </key>
+  <key name="ProductList">
+    <langtype name="zh-cn">产品列表</langtype>
+    <langtype name="en-us">Product list</langtype>
+  </key>
+  <key name="ShoppingManagement">
+    <langtype name="zh-cn">购物管理</langtype>
+    <langtype name="en-us">Shopping management</langtype>
+  </key>
+  <key name="Congratulations">
+    <langtype name="zh-cn">恭喜您激活成功！</langtype>
+    <langtype name="en-us">Congratulations on your success!</langtype>
+  </key>
+  <key name="RegisterLevel">
+    <langtype name="zh-cn">注册级别</langtype>
+    <langtype name="en-us">Register level</langtype>
+  </key>
+  <key name="TotalAAmount">
+    <langtype name="zh-cn">总奖金额</langtype>
+    <langtype name="en-us">Total award amount</langtype>
+  </key>
+  <key name="CapValue">
+    <langtype name="zh-cn">封顶金额</langtype>
+    <langtype name="en-us">Cap amount</langtype>
+  </key>
+  <key name="WhetherCast">
+    <langtype name="zh-cn">是否可复投</langtype>
+    <langtype name="en-us">Whether cast</langtype>
+  </key>
+  <key name="YesCast">
+    <langtype name="zh-cn">是</langtype>
+    <langtype name="en-us">Yes</langtype>
+  </key>
+  <key name="NoCast">
+    <langtype name="zh-cn">否</langtype>
+    <langtype name="en-us">No</langtype>
+  </key>
+  <key name="WaitingBuy">
+    <langtype name="zh-cn">等待买入</langtype>
+    <langtype name="en-us">Waiting to buy</langtype>
+  </key>
+  <key name="BuyIn">
+    <langtype name="zh-cn">购买中</langtype>
+    <langtype name="en-us">Buy in</langtype>
+  </key>
+  <key name="Hold">
+    <langtype name="zh-cn">持有</langtype>
+    <langtype name="en-us">Hold</langtype>
+  </key>
+  <key name="Guadan">
+    <langtype name="zh-cn">挂单</langtype>
+    <langtype name="en-us">Guadan</langtype>
+  </key>
+  <key name="Saleing">
+    <langtype name="zh-cn">出售中</langtype>
+    <langtype name="en-us">Sale</langtype>
+  </key>
+  <key name="HasSold">
+    <langtype name="zh-cn">已卖出</langtype>
+    <langtype name="en-us">Has sold</langtype>
+  </key>
+  <key name="PromotionLink">
+    <langtype name="zh-cn">推广链接</langtype>
+    <langtype name="en-us">Promotion link</langtype>
+  </key>
+  <key name="check">
+    <langtype name="zh-cn">查看</langtype>
+    <langtype name="en-us">check</langtype>
+  </key>
+  <key name="Termination">
+    <langtype name="zh-cn">终止原因</langtype>
+    <langtype name="en-us">Termination reason</langtype>
+  </key>
+  <key name="Daily">
+    <langtype name="zh-cn">日静态收益累计</langtype>
+    <langtype name="en-us">Daily static gain</langtype>
+  </key>
+  <key name="DailyStatic">
+    <langtype name="zh-cn">日静态收益</langtype>
+    <langtype name="en-us">Daily static gain</langtype>
+  </key>
+  <key name="ZCJF">
+    <langtype name="zh-cn">原始币</langtype>
+    <langtype name="en-us">Registration points</langtype>
+  </key>
+ <key name="Cash">
+    <langtype name="zh-cn">释放币</langtype>
+    <langtype name="en-us">Cash points</langtype>
+  </key>
+ <key name="Multiple">
+    <langtype name="zh-cn">复投积分</langtype>
+    <langtype name="en-us">Multiple integral</langtype>
+  </key>
+   <key name="Investment">
+    <langtype name="zh-cn">投资积分</langtype>
+    <langtype name="en-us">Investment points</langtype>
+  </key>
+ <key name="Transaction">
+    <langtype name="zh-cn">释放币</langtype>
+    <langtype name="en-us">Transaction code</langtype>
+  </key>
+<key name="account">
+    <langtype name="zh-cn">我的账户</langtype>
+    <langtype name="en-us">My account</langtype>
+  </key>
+  <key name="Menu">
+    <langtype name="zh-cn">菜单</langtype>
+    <langtype name="en-us">menu</langtype>
+  </key>
+  <key name="upload">
+    <langtype name="zh-cn">上传</langtype>
+    <langtype name="en-us">upload</langtype>
+  </key>
+  <key name="RegOpenMust">
+    <langtype name="zh-cn">原始币不足</langtype>
+    <langtype name="en-us">Insufficient registration</langtype>
+  </key>
+  <key name="ActivationUserFail">
+    <langtype name="zh-cn">激活会员失败</langtype>
+    <langtype name="en-us">Activate member failure</langtype>
+  </key>
+  <key name="ActiveUser">
+    <langtype name="zh-cn">激活</langtype>
+    <langtype name="en-us">Active</langtype>
+  </key>
+ <key name="RegisterNickname">
+    <langtype name="zh-cn">注册昵称</langtype>
+    <langtype name="en-us">Register nickname</langtype>
+  </key>
+ <key name="AlipayAccount">
+    <langtype name="zh-cn">支付宝账号不能为空</langtype>
+    <langtype name="en-us">Alipay account can not be empty</langtype>
+  </key>
+ <key name="Nickname">
+    <langtype name="zh-cn">会员昵称不能为空</langtype>
+    <langtype name="en-us">Member nickname cannot be empty</langtype>
+  </key>
+  <key name="CashSellMul">
+    <langtype name="zh-cn">出售金额必须为 {0} 的整数倍</langtype>
+    <langtype name="en-us">The sale must be an integral multiple of {0}</langtype>
+  </key>
+  <key name="GoldTransInsufficient">
+    <langtype name="zh-cn">释放币不足！</langtype>
+    <langtype name="en-us">Insufficient transaction code!</langtype>
+  </key>
+  <key name="UploadVoucher">
+    <langtype name="zh-cn">上传打款凭证</langtype>
+    <langtype name="en-us">Upload voucher</langtype>
+  </key>
+  <key name="Investments">
+    <langtype name="zh-cn">购买矿机</langtype>
+    <langtype name="en-us">Investment</langtype>
+  </key>
+  <key name="Primary">
+    <langtype name="zh-cn">主帐号</langtype>
+    <langtype name="en-us">Primary Account Number</langtype>
+  </key>
+  <key name="Branch">
+    <langtype name="zh-cn">分帐号</langtype>
+    <langtype name="en-us">Branch account</langtype>
+  </key>
+  <key name="InvestmentMode">
+    <langtype name="zh-cn">矿机</langtype>
+    <langtype name="en-us">Investment mode</langtype>
+  </key>
+  <key name="InvestmentAmount">
+    <langtype name="zh-cn">金额</langtype>
+    <langtype name="en-us">Investment amount</langtype>
+  </key>
+  <key name="InvestmentNum">
+    <langtype name="zh-cn">购买数量</langtype>
+    <langtype name="en-us">Investment amount</langtype>
+  </key>
+  <key name="InvestmentRecord">
+    <langtype name="zh-cn">购买记录</langtype>
+    <langtype name="en-us">Investment record</langtype>
+  </key>
+  <key name="Accounts">
+    <langtype name="zh-cn">帐号</langtype>
+    <langtype name="en-us">accounts</langtype>
+  </key>
+  <key name="RechargeAmount">
+    <langtype name="zh-cn">充值金额</langtype>
+    <langtype name="en-us">Recharge amount</langtype>
+  </key>
+  <key name="CompanyAccountInformation">
+    <langtype name="zh-cn">公司账户信息</langtype>
+    <langtype name="en-us">Company account information</langtype>
+  </key>
+  <key name="CompanyDepositary">
+    <langtype name="zh-cn">公司开户银行</langtype>
+    <langtype name="en-us">Depositary bank</langtype>
+  </key>
+  <key name="CompanyBankAccount">
+    <langtype name="zh-cn">公司开户账号</langtype>
+    <langtype name="en-us">Bank account</langtype>
+  </key>
+  <key name="AuditDate">
+    <langtype name="zh-cn">审核日期</langtype>
+    <langtype name="en-us">Audit Date</langtype>
+  </key>
+  <key name="UserBankAccount">
+    <langtype name="zh-cn">汇款账号</langtype>
+    <langtype name="en-us">Bank Account</langtype>
+  </key>
+  <key name="ApplyAccount">
+    <langtype name="zh-cn">申请分号</langtype>
+    <langtype name="en-us">Apply Account</langtype>
+  </key>
+  <key name="ApplyOpenAccount">
+    <langtype name="zh-cn">开通分号</langtype>
+    <langtype name="en-us">Open Account</langtype>
+  </key>
+  <key name="RegSuccessful">
+    <langtype name="zh-cn">注册成功!</langtype>
+    <langtype name="en-us">Register Successful</langtype>
+  </key>
+  <key name="NoGetPay">
+    <langtype name="zh-cn">未收到付款</langtype>
+    <langtype name="en-us">No payment received</langtype>
+  </key>
+  <key name="AccountLock">
+    <langtype name="zh-cn">帐号已冻结</langtype>
+    <langtype name="en-us">Account freeze</langtype>
+  </key>
+  <key name="AccountLockInfo">
+    <langtype name="zh-cn">您的帐号已冻结，不能进行操作</langtype>
+    <langtype name="en-us">Your account has been blocked and cannot be operated</langtype>
+  </key>
+  <key name="AccountNoActiveInfo">
+    <langtype name="zh-cn">您的帐号未激活</langtype>
+    <langtype name="en-us">Your account is not activated</langtype>
+  </key>
+  <key name="SystemName">
+    <langtype name="zh-cn">释放币</langtype>
+    <langtype name="en-us">SYSTEM</langtype>
+  </key>
+  <key name="Feedback">
+    <langtype name="zh-cn">反馈信息</langtype>
+    <langtype name="en-us">feedback</langtype>
+  </key>
+  <key name="Reason">
+    <langtype name="zh-cn">原因说明</langtype>
+    <langtype name="en-us">Reason</langtype>
+  </key>
+  <key name="FeedbackDate">
+    <langtype name="zh-cn">反馈时间</langtype>
+    <langtype name="en-us">feedback time</langtype>
+  </key>
+  <key name="FeedbackSuccess">
+    <langtype name="zh-cn">反馈成功</langtype>
+    <langtype name="en-us">feedback success</langtype>
+  </key>
+  <key name="BuyAmountMust">
+    <langtype name="zh-cn">购买金额不能大于售出金额</langtype>
+    <langtype name="en-us">The amount of purchase cannot be greater than the amount sold</langtype>
+  </key>
+  <key name="ResidualAmount">
+    <langtype name="zh-cn">剩余金额</langtype>
+    <langtype name="en-us">Residual amount</langtype>
+  </key>
+  <key name="MustLastMaxAmount">
+    <langtype name="zh-cn">额度要大于或者等于上次投资的额度</langtype>
+    <langtype name="en-us">The amount is greater than or equal to the amount of the last investment</langtype>
+  </key>
+  <key name="PaymentPwd">
+    <langtype name="zh-cn">支付密码修改成功</langtype>
+    <langtype name="en-us">Payment password modification success</langtype>
+  </key>
+  <key name="FailedPayPwd">
+    <langtype name="zh-cn">支付密码修改失败</langtype>
+    <langtype name="en-us">Failed to pay password modification</langtype>
+  </key>
+  <key name="oldpayment">
+    <langtype name="zh-cn">旧支付密码不能为空</langtype>
+    <langtype name="en-us">The old payment password cannot be empty</langtype>
+  </key>
+   <key name="MachinePrice">
+    <langtype name="zh-cn">价格</langtype>
+    <langtype name="en-us">Price</langtype>
+  </key>
+   <key name="MachineNumber">
+    <langtype name="zh-cn">数量</langtype>
+    <langtype name="en-us">Number</langtype>
+  </key>
+   <key name="MachineCalc">
+    <langtype name="zh-cn">算力</langtype>
+    <langtype name="en-us">Calc</langtype>
+  </key>
+  <key name="PasswordDefault">
+    <langtype name="zh-cn">默认密码</langtype>
+    <langtype name="en-us">Default</langtype>
+  </key>
+  <key name="RegisterPhoneNumber">
+    <langtype name="zh-cn">该手机号码已注册</langtype>
+    <langtype name="en-us">The phone number has been registered</langtype>
+  </key>
+  <key name="RegisterIDCodeNumber">
+    <langtype name="zh-cn">该身份证已注册</langtype>
+    <langtype name="en-us">The identity card has been registered</langtype>
+  </key>
+  <key name="GetCalcPower">
+    <langtype name="zh-cn">获取算力</langtype>
+    <langtype name="en-us">Get calc power</langtype>
+  </key>
+  <key name="Mining_Time">
+    <langtype name="zh-cn">挖矿时间</langtype>
+    <langtype name="en-us">Mining time</langtype>
+  </key>
+  <key name="Mining_Number">
+    <langtype name="zh-cn">挖矿数量</langtype>
+    <langtype name="en-us">The number of mining</langtype>
+  </key>
+  <key name="Mining_Type">
+    <langtype name="zh-cn">类型</langtype>
+    <langtype name="en-us">Type</langtype>
+  </key>
+  <key name="Mining_SR">
+    <langtype name="zh-cn">挖矿收入</langtype>
+    <langtype name="en-us">Mining income</langtype>
+  </key>
+  <key name="Mining_JR">
+    <langtype name="zh-cn">挖矿记录</langtype>
+    <langtype name="en-us">Mining records</langtype>
+  </key>
+  <key name="YTLatestPrice">
+    <langtype name="zh-cn">释放币最新价格</langtype>
+    <langtype name="en-us">The Latest Price of YT</langtype>
+  </key>
+  <key name="MyAssets">
+    <langtype name="zh-cn">我的资产</langtype>
+    <langtype name="en-us">My Assets</langtype>
+  </key>
+  <key name="Sell">
+    <langtype name="zh-cn">卖出</langtype>
+    <langtype name="en-us">Sell</langtype>
+  </key>
+  <key name="TransactionRecord">
+    <langtype name="zh-cn">交易记录</langtype>
+    <langtype name="en-us">Transaction record</langtype>
+  </key>
+  <key name="TypeofTransaction">
+    <langtype name="zh-cn">交易类型</langtype>
+    <langtype name="en-us">Type of transaction</langtype>
+  </key>
+  <key name="TotalQuantity">
+    <langtype name="zh-cn">总数量</langtype>
+    <langtype name="en-us">Total Quantity</langtype>
+  </key>
+  <key name="IDcardAuthentication">
+    <langtype name="zh-cn">身份证验证</langtype>
+    <langtype name="en-us">Authentication of IDcard</langtype>
+  </key>
+  <key name="RealName">
+    <langtype name="zh-cn">真实姓名</langtype>
+    <langtype name="en-us">Real Name</langtype>
+  </key>
+  <key name="CalcPowerRecord">
+    <langtype name="zh-cn">算力记录</langtype>
+    <langtype name="en-us">CalcPower Records</langtype>
+  </key>
+  <key name="Income">
+    <langtype name="zh-cn">收入</langtype>
+    <langtype name="en-us">Income</langtype>
+  </key>
+  <key name="Expenditure">
+    <langtype name="zh-cn">支出</langtype>
+    <langtype name="en-us">Expenditure</langtype>
+  </key>
+
+  <key name="Selectpicture">
+    <langtype name="zh-cn">选择图片</langtype>
+    <langtype name="en-us">Select a picture</langtype>
+  </key>
+
+  <key name="PleaseSelectVoucher">
+    <langtype name="zh-cn">请选择凭证图片</langtype>
+    <langtype name="en-us">Please select the voucher picture</langtype>
+  </key>
+  <key name="UserBank">
+    <langtype name="zh-cn">银行卡管理</langtype>
+    <langtype name="en-us">Bank card management
+    </langtype>
+  </key>
+  <key name="TranferTo">
+    <langtype name="zh-cn">转入账号</langtype>
+    <langtype name="en-us">
+      Tranfer To
+    </langtype>
+  </key>
+  <key name="ReceiveAccountInfo">
+    <langtype name="zh-cn">收款账号信息</langtype>
+    <langtype name="en-us">Receive account info</langtype>
+  </key>
+  <key name="ReceiveAccount">
+    <langtype name="zh-cn">收款账户</langtype>
+    <langtype name="en-us">Receive account</langtype>
+  </key>
+  <key name="SelectReceiveAccount">
+    <langtype name="zh-cn">请选择收款账户</langtype>
+    <langtype name="en-us">Please choose receive account</langtype>
+  </key>
+</lang>

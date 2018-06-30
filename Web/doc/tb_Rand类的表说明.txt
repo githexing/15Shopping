@@ -1,0 +1,33 @@
+tb_Rand：
+Remark :记录当时的随机数
+GiveTime ：给予的时间
+flag: 0，未发放，2已发放，3 重新计算
+ClickTime ：点击时间
+RandMoney： 随机的金额
+
+-------------------------------------
+---------------------------------------
+tb_Ready_Rand:
+Shengyu_Jine：剩余金额
+TotalJine：这一单总计金额
+Shengyu_Suanli：剩余算力
+Total_Suanli：总计算例
+Flag：0不足或者刚够的金额，1正常，2已经发完
+Remark：备注
+JoinDate：添加时间
+Once_Give：一次能给一天的金额
+Kuangji: 矿机
+TuiJian_QianDao  0默认， 1推荐 ， 2签到
+FromUserID 来源谁的
+
+-----------------------------------------
+----------------------------------------- 
+tb_SuanliJournal:算例流水
+
+[UserID]
+[Down_Suanli] -
+[Up_Suanli] +
+[Shengyu_Total] 剩余
+[Suanli_Type] 算例类型 0购买 1 推荐 2 签到，3 注册赠送， 4 衰减
+[Remark] 
+[JoinTime]

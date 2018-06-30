@@ -1,0 +1,16 @@
+﻿矿机编号
+购买时间
+激活时间
+激活标识 0:未激活，1:已激活 
+转让时间
+转让标识 0:未转让，1:已转让 
+
+create table tb_MachineDetail (ID bigint not null identity(1,1) ,
+BuyMachineID bigint not null,
+MachineNo varchar(20),
+BuyTime datetime,
+ActiveTime datetime,
+IsActive int not null,
+TransferTime datetime,
+IsTransfer int not null
+)

@@ -1,0 +1,4 @@
+﻿Remit001:打款账户id
+Remit002:收款账户id
+Remit003:充值随机码
+Remit004:凭证图片

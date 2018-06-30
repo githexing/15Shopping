@@ -1,0 +1,6 @@
+﻿User.ashx	   用户管理
+Transfer.ashx  转账管理
+Trading.ashx   交易平台
+Bonus.ashx 	   奖金管理
+MobileRecharge.ashx 手机充值
+TrainTickets.ashx  火车票

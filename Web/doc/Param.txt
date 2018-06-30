@@ -1,0 +1,4 @@
+﻿ParamType
+	1 Decimal
+	2 Int
+	3 Decimal 比率

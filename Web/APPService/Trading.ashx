@@ -1,0 +1,1 @@
+﻿<%@ WebHandler Language="C#" CodeBehind="Trading.ashx.cs"  Class="Web.APPService.Trading"%>

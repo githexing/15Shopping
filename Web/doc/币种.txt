@@ -1,0 +1,24 @@
+币种：
+tb_user:
+Emoney          原始币
+BonusAccount 	释放币
+StockMoney	智能钱包
+StockAccount	链接钱包
+ShopAccount	交易钱包
+GLmoney		能量值
+AllBonusAccount	购物钱包
+
+注：
+交易平台买家买入：云盾支付，获得云图
+卖家卖出：出售云图，收入云盾
+
+tb_journal:
+JournalType 帐户类型
+1	原始币
+2	释放币
+3	智能钱包
+4	链接钱包
+5	交易钱包
+6	能量值
+7	购物钱包
+

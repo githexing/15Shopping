@@ -1,0 +1,21 @@
+/* CSS Document */
+.map *{margin:0;padding:0;line-height:1.8em;}
+.map{ margin-bottom:20px;}
+.map a{color:#333;text-decoration:none;}
+.map a:hover{color:#f00;text-decoration:underline;}
+
+.map table{text-align:center; border-collapse:inherit;}
+.map table td{padding:2px; text-align:center;}
+.map table td dl,.map table td p{width:150px;height:134px;margin:0 auto;border:1px solid #bbb;}
+.map table td p{margin:0 auto;padding-top:50px;height:85px;}
+.map table td dl dd{padding:1px;}
+.map table td dl dt a{color:#ff0!important;}
+.map table td dl dt{height:25px;width:150px; overflow:hidden;font-size:14px;}
+.map table dl dd table{background:#bbb;}
+.map table dl dd table td{/*background:#eedd9c;*/padding:2px;white-space:nowrap;}
+
+
+
+
+
+

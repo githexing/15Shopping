@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AA32E944-DF8F-49FF-B67E-D1B021A88E97}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>lgk.BLL</RootNamespace>
+    <AssemblyName>BLL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>Svn</SccProjectName>
+    <SccLocalPath>Svn</SccLocalPath>
+    <SccAuxPath>Svn</SccAuxPath>
+    <SccProvider>SubversionScc</SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>http://localhost/BLL/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AppLog.cs" />
+    <Compile Include="BonusOperationBLL.cs" />
+    <Compile Include="Cashbuy.cs" />
+    <Compile Include="Cashcredit.cs" />
+    <Compile Include="CashManage.cs" />
+    <Compile Include="Cashorder.cs" />
+    <Compile Include="Cashsell.cs" />
+    <Compile Include="CSysLog.cs" />
+    <Compile Include="DbBLL\Cashsell.cs" />
+    <Compile Include="DbBLL\SMS.cs" />
+    <Compile Include="DbBLL\tb_BonusPoly.cs" />
+    <Compile Include="DbBLL\tb_BuyMachine.cs" />
+    <Compile Include="DbBLL\tb_IMFriend.cs" />
+    <Compile Include="DbBLL\tb_Journal.cs" />
+    <Compile Include="DbBLL\tb_PacketReceive.cs" />
+    <Compile Include="DbBLL\tb_PacketSend.cs" />
+    <Compile Include="DbBLL\tb_user.cs" />
+    <Compile Include="gp_BusinessAmount.cs" />
+    <Compile Include="gp_BusinessNotes.cs" />
+    <Compile Include="gp_globeParam.cs" />
+    <Compile Include="gp_operation.cs" />
+    <Compile Include="gp_SplitStockManage.cs" />
+    <Compile Include="gp_StockIssue.cs" />
+    <Compile Include="gp_StockPrice.cs" />
+    <Compile Include="ListView.cs" />
+    <Compile Include="SMS.cs" />
+    <Compile Include="tb_Account.cs" />
+    <Compile Include="tb_Address.cs" />
+    <Compile Include="tb_agent1.cs" />
+    <Compile Include="tb_BonusPoly.cs" />
+    <Compile Include="tb_BuyMachine.cs" />
+    <Compile Include="tb_CityCode.cs" />
+    <Compile Include="tb_FriendDynamic.cs" />
+    <Compile Include="tb_FriendDynamicComment.cs" />
+    <Compile Include="tb_FriendDynamicGood.cs" />
+    <Compile Include="tb_goodsCar.cs" />
+    <Compile Include="tb_goods_cxth.cs" />
+    <Compile Include="tb_goods_property.cs" />
+    <Compile Include="tb_goods_property_color.cs" />
+    <Compile Include="tb_goods_property_size.cs" />
+    <Compile Include="tb_goods_size.cs" />
+    <Compile Include="tb_IMFriend.cs" />
+    <Compile Include="tb_Insurance.cs" />
+    <Compile Include="tb_InviteInfo.cs" />
+    <Compile Include="tb_LockPosition.cs" />
+    <Compile Include="tb_LoginToken.cs" />
+    <Compile Include="tb_MachineDetail.cs" />
+    <Compile Include="tb_OrderCallBack.cs" />
+    <Compile Include="tb_OrderInvest.cs" />
+    <Compile Include="tb_PacketReceive.cs" />
+    <Compile Include="tb_PacketSend.cs" />
+    <Compile Include="tb_Passengers.cs" />
+    <Compile Include="tb_PhoneAmcount.cs" />
+    <Compile Include="tb_PhoneOrder.cs" />
+    <Compile Include="tb_Purchase.cs" />
+    <Compile Include="SecondPasswordBLL76.cs" />
+    <Compile Include="tb_Stock.cs" />
+    <Compile Include="StockBonus.cs" />
+    <Compile Include="tb_StockBuy.cs" />
+    <Compile Include="tb_StockDetail.cs" />
+    <Compile Include="tb_StockIssue.cs" />
+    <Compile Include="tb_Stockorder.cs" />
+    <Compile Include="tb_StockSplit.cs" />
+    <Compile Include="tb_StockSplitDetail.cs" />
+    <Compile Include="tb_admidLog.cs" />
+    <Compile Include="tb_admin.cs" />
+    <Compile Include="tb_agent.cs" />
+    <Compile Include="tb_area.cs" />
+    <Compile Include="tb_Auction.cs" />
+    <Compile Include="tb_bankName.cs" />
+    <Compile Include="tb_bonus.cs" />
+    <Compile Include="tb_bonusType.cs" />
+    <Compile Include="tb_change.cs" />
+    <Compile Include="tb_city.cs" />
+    <Compile Include="tb_flag.cs" />
+    <Compile Include="tb_globeParam.cs" />
+    <Compile Include="tb_goods.cs" />
+    <Compile Include="tb_journal.cs" />
+    <Compile Include="tb_leaveMsg.cs" />
+    <Compile Include="tb_leaveReMsg.cs" />
+    <Compile Include="tb_level.cs" />
+    <Compile Include="tb_Link.cs" />
+    <Compile Include="tb_message.cs" />
+    <Compile Include="tb_mix.cs" />
+    <Compile Include="tb_news.cs" />
+    <Compile Include="tb_Order.cs" />
+    <Compile Include="tb_OrderDetail.cs" />
+    <Compile Include="tb_power.cs" />
+    <Compile Include="tb_produce.cs" />
+    <Compile Include="tb_produceType.cs" />
+    <Compile Include="tb_province.cs" />
+    <Compile Include="tb_recharge.cs" />
+    <Compile Include="tb_remit.cs" />
+    <Compile Include="tb_Salesroom.cs" />
+    <Compile Include="tb_Security.cs" />
+    <Compile Include="tb_serviceQQ.cs" />
+    <Compile Include="tb_setSystem.cs" />
+    <Compile Include="tb_SuanliJournal.cs" />
+    <Compile Include="tb_systemBank.cs" />
+    <Compile Include="tb_systemMoney.cs" />
+    <Compile Include="tb_takeMoney.cs" />
+    <Compile Include="tb_TicketBack.cs" />
+    <Compile Include="tb_TicketCity.cs" />
+    <Compile Include="tb_TicketOrder.cs" />
+    <Compile Include="tb_TrainBackUrl.cs" />
+    <Compile Include="tb_TrainTicketsOrder.cs" />
+    <Compile Include="tb_TrainTicketsOrderDetail.cs" />
+    <Compile Include="tb_TransferMachine.cs" />
+    <Compile Include="tb_user.cs" />
+    <Compile Include="tb_UserBank.cs" />
+    <Compile Include="tb_userLog.cs" />
+    <Compile Include="tb_UserMale.cs" />
+    <Compile Include="tb_UserOrder.cs" />
+    <Compile Include="tb_UserOrderDetail.cs" />
+    <Compile Include="tb_userPro.cs" />
+    <Compile Include="tb_userRecord.cs" />
+    <Compile Include="tb_wealth.cs" />
+    <Compile Include="UploadFile.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserView.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{2F6A15BB-7B26-4831-89F6-CB62C3EA99CA}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{19F20B13-CDD5-4188-8400-4D6F4054594B}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

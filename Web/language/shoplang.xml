@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lang>
+  <key name="UserName">
+    <langtype name="zh-cn">用户名</langtype>
+    <langtype name="en-us">UserName</langtype>
+  </key>
+  <key name="Password">
+    <langtype name="zh-cn">密码</langtype>
+    <langtype name="en-us">Password</langtype>
+  </key>
+  <key name="Register">
+    <langtype name="zh-cn">我要注册</langtype>
+    <langtype name="en-us">Register</langtype>
+  </key>
+  <key name="Login">
+    <langtype name="zh-cn">登录</langtype>
+    <langtype name="en-us">Login</langtype>
+  </key>
+  <!--<key name="MemberCenter">
+    <langtype name="zh-cn">会员中心</langtype>
+    <langtype name="en-us">Member Center</langtype>
+  </key>-->
+  <!--<key name="SalfLogOut">
+    <langtype name="zh-cn">安全退出</langtype>
+    <langtype name="en-us">Salf LogOut</langtype>
+  </key>-->
+  <!--<key name="More">
+    <langtype name="zh-cn">更多</langtype>
+    <langtype name="en-us">More</langtype>
+  </key>-->
+  <key name="ShortLinksImg">
+    <langtype name="zh-cn">links</langtype>
+    <langtype name="en-us">links_en</langtype>
+  </key>
+
+
+  <key name="shopindextitle">
+    <langtype name="zh-cn">商城首页</langtype>
+    <langtype name="en-us">Shopping Mall Home</langtype>
+  </key>
+  <!--<key name="shopindex">
+    <langtype name="zh-cn">首页</langtype>
+    <langtype name="en-us">Home</langtype>
+  </key>-->
+  <key name="man">
+    <langtype name="zh-cn">男士</langtype>
+    <langtype name="en-us">Man</langtype>
+  </key>
+  <key name="women">
+    <langtype name="zh-cn">女士</langtype>
+    <langtype name="en-us">Women</langtype>
+  </key>
+  <key name="EastLuxury">
+    <langtype name="zh-cn">东方奢侈品</langtype>
+    <langtype name="en-us">East Luxury</langtype>
+  </key>
+  <key name="AuctionArea">
+    <langtype name="zh-cn">竞拍区</langtype>
+    <langtype name="en-us">Auction Area</langtype>
+  </key>
+  <key name="IntegrationRedemption">
+    <langtype name="zh-cn">积分换购</langtype>
+    <langtype name="en-us">Integration Redemption</langtype>
+  </key>
+  <!--<key name="ShoppingCart">
+    <langtype name="zh-cn">购物车</langtype>
+    <langtype name="en-us">Shopping Cart</langtype>
+  </key>-->
+  <key name="Pants">
+    <langtype name="zh-cn">裤子</langtype>
+    <langtype name="en-us">Pants</langtype>
+  </key>
+  <key name="Briefs">
+    <langtype name="zh-cn">内裤</langtype>
+    <langtype name="en-us">Briefs</langtype>
+  </key>
+  <key name="Skirt">
+    <langtype name="zh-cn">裙子</langtype>
+    <langtype name="en-us">Skirt</langtype>
+  </key>
+  <key name="BlueAndWhitePorcelain">
+    <langtype name="zh-cn">青花瓷</langtype>
+    <langtype name="en-us">Blue And White Porcelain</langtype>
+  </key>
+  <key name="ThermosJug">
+    <langtype name="zh-cn">热水壶</langtype>
+    <langtype name="en-us">Thermos Jug</langtype>
+  </key>
+  <key name="Refrigerator">
+    <langtype name="zh-cn">电冰箱</langtype>
+    <langtype name="en-us">Refrigerator</langtype>
+  </key>
+  <key name="AboutUs">
+    <langtype name="zh-cn">公司简介</langtype>
+    <langtype name="en-us">About Us</langtype>
+  </key>
+  <key name="BuyNavigation">
+    <langtype name="zh-cn">购买导航</langtype>
+    <langtype name="en-us">Buy Navigation</langtype>
+  </key>
+  <key name="BusinessUnion">
+    <langtype name="zh-cn">商家联盟</langtype>
+    <langtype name="en-us">Business Union</langtype>
+  </key>
+  <key name="OfficialSite">
+    <langtype name="zh-cn">官方网站</langtype>
+    <langtype name="en-us">Official Site</langtype>
+  </key>
+  <key name="LatestActivity">
+    <langtype name="zh-cn">最新活动</langtype>
+    <langtype name="en-us">Latest Activity</langtype>
+  </key>
+  <key name="ContactUs">
+    <langtype name="zh-cn">联系我们</langtype>
+    <langtype name="en-us">Contact Us</langtype>
+  </key>
+  <key name="LinksImg">
+    <langtype name="zh-cn">link-ul</langtype>
+    <langtype name="en-us">link-ul-en</langtype>
+  </key>
+  <!--<key name="copyright">
+    <langtype name="zh-cn">版权所有</langtype>
+    <langtype name="en-us">All Rights Reserved</langtype>
+  </key>-->
+
+
+  <key name="ProductCategory">
+    <langtype name="zh-cn">商品分类</langtype>
+    <langtype name="en-us">Product Category</langtype>
+  </key>
+  <key name="ProductDetailTitle">
+    <langtype name="zh-cn">商品详情</langtype>
+    <langtype name="en-us">Product Detail</langtype>
+  </key>
+  <key name="ProductDetailInvalidOperation">
+    <langtype name="zh-cn">无效的操作</langtype>
+    <langtype name="en-us">Invalid Operation</langtype>
+  </key>
+  <!--<key name="ProductID">
+    <langtype name="zh-cn">商品编号</langtype>
+    <langtype name="en-us">Product ID</langtype>
+  </key>-->
+  <key name="HasSold">
+    <langtype name="zh-cn">已销售</langtype>
+    <langtype name="en-us">Has Sold</langtype>
+  </key>
+  <key name="Inventory">
+    <langtype name="zh-cn">库存</langtype>
+    <langtype name="en-us">Inventory</langtype>
+  </key>
+  <!--<key name="BuyNumbers">
+    <langtype name="zh-cn">购买数量</langtype>
+    <langtype name="en-us">Buy Numbers</langtype>
+  </key>-->
+  <key name="MarketPrice">
+    <langtype name="zh-cn">市场价</langtype>
+    <langtype name="en-us">Market Price</langtype>
+  </key>
+  <key name="MemberPrice">
+    <langtype name="zh-cn">会员价</langtype>
+    <langtype name="en-us">Member Price</langtype>
+  </key>
+  <key name="TotalAmount">
+    <langtype name="zh-cn">总额</langtype>
+    <langtype name="en-us">Total Money</langtype>
+  </key>
+  <key name="ProductDetails">
+    <langtype name="zh-cn">商品详细信息</langtype>
+    <langtype name="en-us">Product Details</langtype>
+  </key>
+  <!--<key name="AuctionProduct">
+    <langtype name="zh-cn">竞拍商品</langtype>
+    <langtype name="en-us">Auction Product</langtype>
+  </key>-->
+  <!--<key name="AuctionPrice">
+    <langtype name="zh-cn">竞拍价</langtype>
+    <langtype name="en-us">Auction Price</langtype>
+  </key>-->
+
+  <key name="Image">
+    <langtype name="zh-cn">图片</langtype>
+    <langtype name="en-us">Image</langtype>
+  </key>
+  <key name="Price">
+    <langtype name="zh-cn">单价</langtype>
+    <langtype name="en-us">Price</langtype>
+  </key>
+  <key name="Score">
+    <langtype name="zh-cn">积分</langtype>
+    <langtype name="en-us">Score</langtype>
+  </key>
+  <key name="Number">
+    <langtype name="zh-cn">数量</langtype>
+    <langtype name="en-us">Number</langtype>
+  </key>
+  <key name="TotalMoney">
+    <langtype name="zh-cn">总金额</langtype>
+    <langtype name="en-us">TotalMoney</langtype>
+  </key>
+  <key name="TotalScore">
+    <langtype name="zh-cn">总积分</langtype>
+    <langtype name="en-us">TotalScore</langtype>
+  </key>
+  <key name="Operation">
+    <langtype name="zh-cn">操作</langtype>
+    <langtype name="en-us">Operation</langtype>
+  </key>
+
+  <key name="OrderMoney">
+    <langtype name="zh-cn">订货总金额</langtype>
+    <langtype name="en-us">Total Money Of Orders</langtype>
+  </key>
+  <key name="OrderScores">
+    <langtype name="zh-cn">订货总积分</langtype>
+    <langtype name="en-us">Scores Of Orders</langtype>
+  </key>
+  <key name="PaymentMethod">
+    <langtype name="zh-cn">支付方式</langtype>
+    <langtype name="en-us">Payment Method</langtype>
+  </key>
+  <key name="EmoneyPay">
+    <langtype name="zh-cn">电子币支付</langtype>
+    <langtype name="en-us">Emoney Pay</langtype>
+  </key>
+  <key name="ScorePay">
+    <langtype name="zh-cn">积分支付</langtype>
+    <langtype name="en-us">Score Pay</langtype>
+  </key>
+
+
+  <key name="ChannelTitle">
+    <langtype name="zh-cn">商城网站</langtype>
+    <langtype name="en-us">Shop WebSite</langtype>
+  </key>
+  <key name="ProductName">
+    <langtype name="zh-cn">商品名称</langtype>
+    <langtype name="en-us">ProductName</langtype>
+  </key>
+  <key name="ProductPrice">
+    <langtype name="zh-cn">商品价格</langtype>
+    <langtype name="en-us">Product Price</langtype>
+  </key>
+  <key name="To">
+    <langtype name="zh-cn">至</langtype>
+    <langtype name="en-us">To</langtype>
+  </key>
+  <key name="ProductShow">
+    <langtype name="zh-cn">商品展示</langtype>
+    <langtype name="en-us">Product Show</langtype>
+  </key>
+  <key name="USD">
+    <langtype name="zh-cn">美元</langtype>
+    <langtype name="en-us">$</langtype>
+  </key>
+  <key name="Search">
+    <langtype name="zh-cn">搜 索</langtype>
+    <langtype name="en-us">Search</langtype>
+  </key>
+  <key name="FirstPage">
+    <langtype name="zh-cn">首页</langtype>
+    <langtype name="en-us">First Page</langtype>
+  </key>
+  <key name="PrevPage">
+    <langtype name="zh-cn">上一页</langtype>
+    <langtype name="en-us">Prev Page</langtype>
+  </key>
+  <key name="NextPage">
+    <langtype name="zh-cn">下一页</langtype>
+    <langtype name="en-us">Next Page</langtype>
+  </key>
+  <key name="LastPage">
+    <langtype name="zh-cn">尾页</langtype>
+    <langtype name="en-us">Last Page</langtype>
+  </key>
+</lang>

@@ -1,0 +1,36 @@
+﻿LogType 
+ 1	后台登陆
+ 10 修改参数
+ 11 后台修改会员资料
+ 20 激活会员出错
+ 21 投资出错
+ 22 申请开通分号
+ 23 冻结买家帐户
+ 24 冻结卖家帐户
+ 25 获得见点奖资格
+ 1000 分红记录
+LogCode
+ 100 后台登陆
+ 200 修改参数
+//操作人ID
+Log1
+//IP
+Log2
+//mac
+Log4
+
+
+
+lgk.Model.SysLog log = new lgk.Model.SysLog();//日志
+lgk.BLL.SysLog syslogBLL = new lgk.BLL.SysLog();
+log.LogMsg = "";
+log.LogType = 1;//
+log.LogLeve = 0;//
+log.LogDate = DateTime.Now;
+log.LogCode = "申请开通分号";//
+log.IsDeleted = 0;
+log.Log1 = usermodel.UserID.ToString();//用户UserID
+log.Log2 = BrowserHelper.UserHostIP(this.Page);
+log.Log3 = BrowserHelper.UserHostName();
+log.Log4 = "";
+syslogBLL.Add(log);
